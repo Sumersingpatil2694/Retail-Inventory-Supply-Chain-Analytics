@@ -1,9 +1,0 @@
-supplier_id,supplier_name,city,avg_lead_time_days,reliability_score
-SUP01,Sunrise Distributors,Pune,4,92
-SUP02,Metro Wholesale Co.,Mumbai,7,81
-SUP03,Prime Vendors Ltd,Bengaluru,3,96
-SUP04,Apex Trading Corp,Chennai,9,73
-SUP05,Bluewave Supplies,Delhi,5,88
-SUP06,Nationwide Traders,Hyderabad,12,65
-SUP07,Horizon Goods Pvt Ltd,Kolkata,6,85
-SUP08,Summit Supply Chain,Ahmedabad,8,78
