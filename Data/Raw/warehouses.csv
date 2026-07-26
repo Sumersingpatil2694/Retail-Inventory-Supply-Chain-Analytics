@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,city,capacity_units
+W01,North Distribution Center,Delhi,60000
+W02,South Distribution Center,Bengaluru,55000
+W03,Central Distribution Center,Pune,70000
