@@ -1,9 +1,21 @@
-supplier_id,supplier_name,city,avg_lead_time_days,reliability_score
-SUP01,Sunrise Distributors,Pune,4,92
-SUP02,Metro Wholesale Co.,Mumbai,7,81
-SUP03,Prime Vendors Ltd,Bengaluru,3,96
-SUP04,Apex Trading Corp,Chennai,9,73
-SUP05,Bluewave Supplies,Delhi,5,88
-SUP06,Nationwide Traders,Hyderabad,12,65
-SUP07,Horizon Goods Pvt Ltd,Kolkata,6,85
-SUP08,Summit Supply Chain,Ahmedabad,8,78
+supplier_id,supplier_name,city,avg_lead_time_days,reliability_score,country,contact_type,preferred_supplier_flag
+SUP01,Sunrise Distributors,Pune,4,92,India,Direct,1
+SUP02,Metro Wholesale Co.,Mumbai,7,81,India,Distributor,0
+SUP03,Prime Vendors Ltd,Bengaluru,3,96,India,Agent,1
+SUP04,Apex Trading Corp,Chennai,9,73,India,Broker,0
+SUP05,Bluewave Supplies,Delhi,5,88,India,Direct,1
+SUP06,Nationwide Traders,Hyderabad,12,65,India,Distributor,0
+SUP07,Horizon Goods Pvt Ltd,Kolkata,6,85,India,Agent,1
+SUP08,Summit Supply Chain,Ahmedabad,8,78,India,Broker,0
+SUP09,Golden Gate Imports,Pune,4,63,India,Direct,0
+SUP10,Silverline Merchandise,Mumbai,7,97,India,Distributor,1
+SUP11,Orbit Sourcing Ltd,Bengaluru,8,88,India,Agent,1
+SUP12,Vertex Global Trade,Chennai,8,89,India,Broker,1
+SUP13,Pinnacle Wholesale,Delhi,7,64,India,Direct,0
+SUP14,Everest Supply Co,Hyderabad,9,77,India,Distributor,0
+SUP15,Falcon Distribution,Shenzhen,25,74,China,Agent,0
+SUP16,Crescent Traders,Ho Chi Minh City,18,95,Vietnam,Broker,1
+SUP17,Oceanic Import-Export,Dhaka,30,84,Bangladesh,Direct,0
+SUP18,Zenith Commerce Ltd,Guangzhou,23,91,China,Distributor,1
+SUP19,Cascade Vendors,Hanoi,25,76,Vietnam,Agent,0
+SUP20,Meridian Supply Group,Chittagong,24,68,Bangladesh,Broker,0

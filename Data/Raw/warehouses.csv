@@ -1,4 +1,9 @@
-warehouse_id,warehouse_name,city,capacity_units
-W01,North Distribution Center,Delhi,60000
-W02,South Distribution Center,Bengaluru,55000
-W03,Central Distribution Center,Pune,70000
+warehouse_id,warehouse_name,city,capacity_units,region,warehouse_manager,utilization_pct,current_units_stored
+W01,North Distribution Center,Delhi,60000,North,Rohit Sharma,58,34800
+W02,South Distribution Center,Bengaluru,55000,South,Anita Desai,84,46200
+W03,Central Distribution Center,Pune,70000,West,Karan Mehta,79,55300
+W04,East Distribution Center,Kolkata,48000,East,Sneha Iyer,71,34080
+W05,West Distribution Center,Mumbai,65000,West,Vikram Nair,71,46150
+W06,North-East Distribution Center,Guwahati,30000,North-East,Priya Rao,87,26100
+W07,Central-South Distribution Center,Hyderabad,52000,South,Arjun Kapoor,58,30160
+W08,West-2 Distribution Center,Ahmedabad,40000,West,Meera Pillai,81,32400

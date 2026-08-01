@@ -1,101 +1,411 @@
-product_id,product_name,category,supplier_id,unit_cost,unit_price,reorder_point
-CLO-P0001,Cotton T-Shirt,Clothing,SUP03,203.61,369.58,78
-CLO-P0002,Denim Jeans,Clothing,SUP03,82.96,156.41,74
-CLO-P0003,Formal Shirt,Clothing,SUP06,325.12,447.65,78
-CLO-P0004,Summer Dress,Clothing,SUP06,179.78,333.68,62
-CLO-P0005,Hoodie,Clothing,SUP06,337.97,529.28,72
-CLO-P0006,Track Pants,Clothing,SUP05,244.1,326.68,51
-CLO-P0007,Winter Jacket,Clothing,SUP06,271.08,475.71,81
-CLO-P0008,Kids T-Shirt,Clothing,SUP06,389.74,715.51,57
-CLO-P0009,Casual Shorts,Clothing,SUP06,118.12,186.63,78
-CLO-P0010,Kurta Set,Clothing,SUP05,104,177.82,42
-CLO-P0011,Sports Jersey,Clothing,SUP06,388.63,581.19,77
-CLO-P0012,Woolen Sweater,Clothing,SUP06,214.34,303.01,58
-CLO-P0013,Rain Jacket,Clothing,SUP05,216.5,310.93,46
-CLO-P0014,Formal Trousers,Clothing,SUP05,203,365.32,73
-CLO-P0015,Night Suit,Clothing,SUP05,159.33,286.69,75
-CLO-P0016,Ethnic Saree,Clothing,SUP05,185.62,273.42,80
-CLO-P0017,Denim Jacket,Clothing,SUP03,98.91,140.45,74
-CLO-P0018,Cargo Pants,Clothing,SUP06,325.42,552.86,40
-CLO-P0019,Polo T-Shirt,Clothing,SUP05,323.26,509.25,75
-CLO-P0020,Maxi Dress,Clothing,SUP05,98.93,135.41,68
-ELE-P0001,Wireless Mouse,Electronics,SUP04,214.88,352.22,73
-ELE-P0002,Bluetooth Speaker,Electronics,SUP04,272.15,444.19,78
-ELE-P0003,USB-C Charger,Electronics,SUP04,156.38,206.19,67
-ELE-P0004,LED Desk Lamp,Electronics,SUP04,125.1,193.29,61
-ELE-P0005,Power Bank 10000mAh,Electronics,SUP07,131.88,176.06,82
-ELE-P0006,Wireless Earbuds,Electronics,SUP07,152.76,259.26,54
-ELE-P0007,HDMI Cable,Electronics,SUP04,324.36,550.95,67
-ELE-P0008,Smart Watch Band,Electronics,SUP04,334.91,468.94,60
-ELE-P0009,USB Hub,Electronics,SUP04,81.52,141.31,41
-ELE-P0010,Webcam HD,Electronics,SUP07,106.45,170.39,63
-ELE-P0011,Wireless Keyboard,Electronics,SUP07,293.71,460.45,47
-ELE-P0012,Phone Stand,Electronics,SUP04,155.53,261.01,59
-ELE-P0013,Laptop Sleeve,Electronics,SUP07,80.68,110.6,58
-ELE-P0014,Portable Fan,Electronics,SUP04,368,632.9,88
-ELE-P0015,LED Strip Lights,Electronics,SUP04,389.21,687.83,53
-ELE-P0016,Extension Board,Electronics,SUP04,207.28,303.32,75
-ELE-P0017,Bluetooth Adapter,Electronics,SUP04,365.91,575.75,44
-ELE-P0018,Memory Card 64GB,Electronics,SUP07,157.08,258.79,50
-ELE-P0019,Screen Protector,Electronics,SUP07,349.81,613.96,48
-ELE-P0020,Car Charger,Electronics,SUP04,201.23,337.34,75
-FUR-P0001,Study Table,Furniture,SUP08,277.45,374.74,69
-FUR-P0002,Office Chair,Furniture,SUP02,64.56,103.06,60
-FUR-P0003,Bookshelf 5-Tier,Furniture,SUP08,100.58,136.99,56
-FUR-P0004,Bedside Table,Furniture,SUP08,109.71,203.52,69
-FUR-P0005,Folding Chair,Furniture,SUP02,171.4,283.59,69
-FUR-P0006,TV Stand,Furniture,SUP08,385.5,612.71,41
-FUR-P0007,Shoe Rack,Furniture,SUP08,78.96,125.7,79
-FUR-P0008,Coat Rack,Furniture,SUP02,378.24,621.46,64
-FUR-P0009,Wall Shelf Set,Furniture,SUP02,143.44,215.01,63
-FUR-P0010,Bean Bag,Furniture,SUP02,203.62,267.35,66
-FUR-P0011,Dining Chair,Furniture,SUP08,363.66,503.36,81
-FUR-P0012,Storage Cabinet,Furniture,SUP08,88,149.89,67
-FUR-P0013,Ottoman Stool,Furniture,SUP08,280.8,487.52,54
-FUR-P0014,Laptop Table,Furniture,SUP02,87.71,162.23,78
-FUR-P0015,Wardrobe 2-Door,Furniture,SUP02,63.09,103.02,51
-FUR-P0016,Bar Stool,Furniture,SUP02,340.43,607.65,58
-FUR-P0017,Kids Study Desk,Furniture,SUP02,383.51,565.5,55
-FUR-P0018,Recliner Chair,Furniture,SUP02,139.59,259.86,65
-FUR-P0019,Console Table,Furniture,SUP08,65.72,102.59,48
-FUR-P0020,Cushion Stool,Furniture,SUP02,362.09,633.36,89
-GRO-P0001,Basmati Rice 5kg,Groceries,SUP05,362.71,584.44,84
-GRO-P0002,Sunflower Oil 1L,Groceries,SUP03,320.2,543.38,55
-GRO-P0003,Wheat Flour 5kg,Groceries,SUP03,83.06,145.2,58
-GRO-P0004,Green Tea Pack,Groceries,SUP03,377.88,545.88,53
-GRO-P0005,Organic Honey 500g,Groceries,SUP01,340.89,474.51,46
-GRO-P0006,Masala Mix 200g,Groceries,SUP05,259.78,474.03,48
-GRO-P0007,Almonds 500g,Groceries,SUP01,158.61,280.18,49
-GRO-P0008,Brown Bread,Groceries,SUP01,225.26,312.29,88
-GRO-P0009,Coffee Powder 250g,Groceries,SUP05,130.38,179.81,40
-GRO-P0010,Peanut Butter 400g,Groceries,SUP01,92.64,148.58,73
-GRO-P0011,Cornflakes 500g,Groceries,SUP05,253.39,359.78,74
-GRO-P0012,Salt 1kg,Groceries,SUP05,300.39,523.7,80
-GRO-P0013,Sugar 1kg,Groceries,SUP05,93.31,173.23,46
-GRO-P0014,Pasta 500g,Groceries,SUP01,155.33,247.46,59
-GRO-P0015,Ketchup 500ml,Groceries,SUP03,384.47,565.89,73
-GRO-P0016,Biscuits Pack,Groceries,SUP05,58.7,95.86,86
-GRO-P0017,Jaggery 500g,Groceries,SUP01,87.06,120.51,71
-GRO-P0018,Pickle 300g,Groceries,SUP05,388.18,643.46,60
-GRO-P0019,Milk Powder 500g,Groceries,SUP01,331.53,523.96,86
-GRO-P0020,Instant Noodles Pack,Groceries,SUP03,56.24,76.79,79
-TOY-P0001,Building Blocks Set,Toys,SUP02,328.89,473.46,81
-TOY-P0002,Remote Control Car,Toys,SUP02,262.11,477.21,66
-TOY-P0003,Puzzle 500pc,Toys,SUP06,194.4,296.36,70
-TOY-P0004,Action Figure,Toys,SUP06,278.18,506.43,61
-TOY-P0005,Soft Plush Toy,Toys,SUP02,136.74,197.18,62
-TOY-P0006,Board Game,Toys,SUP06,335.8,457.75,77
-TOY-P0007,Toy Train Set,Toys,SUP06,258.05,358.1,43
-TOY-P0008,Water Gun,Toys,SUP02,158.62,219.9,81
-TOY-P0009,Building Blocks Mini,Toys,SUP06,107.94,158.76,86
-TOY-P0010,Dollhouse,Toys,SUP06,90.42,118.69,47
-TOY-P0011,Toy Kitchen Set,Toys,SUP06,111.12,148.02,42
-TOY-P0012,Bicycle Kids,Toys,SUP02,288.25,442.8,69
-TOY-P0013,Skateboard Kids,Toys,SUP06,226.58,413.51,55
-TOY-P0014,Rubik Cube,Toys,SUP06,65.22,91.89,82
-TOY-P0015,Kite Set,Toys,SUP06,137.29,225.53,51
-TOY-P0016,Toy Drone,Toys,SUP06,67.24,102.49,60
-TOY-P0017,Art Kit,Toys,SUP06,85.59,154.07,66
-TOY-P0018,Slime Kit,Toys,SUP02,373.69,508.02,42
-TOY-P0019,Toy Robot,Toys,SUP06,365.93,690.78,82
-TOY-P0020,Card Game Set,Toys,SUP02,322.82,544.11,80
+product_id,product_name,category,supplier_id,unit_cost,unit_price,reorder_point,brand,safety_stock,lead_time_days,profit_margin_pct
+CLO-P0001,Cotton T-Shirt,Clothing,SUP03,203.61,369.58,78,UrbanThread,35,8,44.91
+CLO-P0002,Denim Jeans,Clothing,SUP03,82.96,156.41,74,CottonCraft,42,18,46.96
+CLO-P0003,Formal Shirt,Clothing,SUP06,325.12,447.65,78,StyleNest,46,23,27.37
+CLO-P0004,Summer Dress,Clothing,SUP06,179.78,333.68,62,Denimo,22,5,46.12
+CLO-P0005,Hoodie,Clothing,SUP06,337.97,529.28,72,WeaveWorks,22,25,36.15
+CLO-P0006,Track Pants,Clothing,SUP05,244.1,326.68,51,UrbanThread,17,8,25.28
+CLO-P0007,Winter Jacket,Clothing,SUP06,271.08,475.71,81,StyleNest,25,15,43.02
+CLO-P0008,Kids T-Shirt,Clothing,SUP06,389.74,715.51,57,UrbanThread,20,14,45.53
+CLO-P0009,Casual Shorts,Clothing,SUP06,118.12,186.63,78,UrbanThread,36,25,36.71
+CLO-P0010,Kurta Set,Clothing,SUP05,104.0,177.82,42,StyleNest,24,10,41.51
+CLO-P0011,Sports Jersey,Clothing,SUP06,388.63,581.19,77,UrbanThread,35,9,33.13
+CLO-P0012,Woolen Sweater,Clothing,SUP06,214.34,303.01,58,WeaveWorks,28,12,29.26
+CLO-P0013,Rain Jacket,Clothing,SUP05,216.5,310.93,46,Denimo,16,12,30.37
+CLO-P0014,Formal Trousers,Clothing,SUP05,203.0,365.32,73,UrbanThread,39,7,44.43
+CLO-P0015,Night Suit,Clothing,SUP05,159.33,286.69,75,UrbanThread,36,7,44.42
+CLO-P0016,Ethnic Saree,Clothing,SUP05,185.62,273.42,80,UrbanThread,44,9,32.11
+CLO-P0017,Denim Jacket,Clothing,SUP03,98.91,140.45,74,UrbanThread,43,15,29.58
+CLO-P0018,Cargo Pants,Clothing,SUP06,325.42,552.86,40,UrbanThread,16,12,41.14
+CLO-P0019,Polo T-Shirt,Clothing,SUP05,323.26,509.25,75,UrbanThread,24,13,36.52
+CLO-P0020,Maxi Dress,Clothing,SUP05,98.93,135.41,68,UrbanThread,25,22,26.94
+ELE-P0001,Wireless Mouse,Electronics,SUP04,214.88,352.22,73,Voltex,31,9,38.99
+ELE-P0002,Bluetooth Speaker,Electronics,SUP04,272.15,444.19,78,Voltex,45,27,38.73
+ELE-P0003,USB-C Charger,Electronics,SUP04,156.38,206.19,67,Voltex,27,23,24.16
+ELE-P0004,LED Desk Lamp,Electronics,SUP04,125.1,193.29,61,Voltex,32,7,35.28
+ELE-P0005,Power Bank 10000mAh,Electronics,SUP07,131.88,176.06,82,Voltex,37,11,25.09
+ELE-P0006,Wireless Earbuds,Electronics,SUP07,152.76,259.26,54,Nexcore,19,7,41.08
+ELE-P0007,HDMI Cable,Electronics,SUP04,324.36,550.95,67,Voltex,26,10,41.13
+ELE-P0008,Smart Watch Band,Electronics,SUP04,334.91,468.94,60,Voltex,29,12,28.58
+ELE-P0009,USB Hub,Electronics,SUP04,81.52,141.31,41,Voltex,20,6,42.31
+ELE-P0010,Webcam HD,Electronics,SUP07,106.45,170.39,63,Voltex,27,3,37.53
+ELE-P0011,Wireless Keyboard,Electronics,SUP07,293.71,460.45,47,Voltex,17,14,36.21
+ELE-P0012,Phone Stand,Electronics,SUP04,155.53,261.01,59,Voltex,30,21,40.41
+ELE-P0013,Laptop Sleeve,Electronics,SUP07,80.68,110.6,58,Voltex,20,11,27.05
+ELE-P0014,Portable Fan,Electronics,SUP04,368.0,632.9,88,Voltex,51,26,41.85
+ELE-P0015,LED Strip Lights,Electronics,SUP04,389.21,687.83,53,Voltex,18,12,43.41
+ELE-P0016,Extension Board,Electronics,SUP04,207.28,303.32,75,Voltex,24,27,31.66
+ELE-P0017,Bluetooth Adapter,Electronics,SUP04,365.91,575.75,44,Voltex,19,9,36.45
+ELE-P0018,Memory Card 64GB,Electronics,SUP07,157.08,258.79,50,Voltex,22,17,39.3
+ELE-P0019,Screen Protector,Electronics,SUP07,349.81,613.96,48,Voltex,21,23,43.02
+ELE-P0020,Car Charger,Electronics,SUP04,201.23,337.34,75,Voltex,32,4,40.35
+FUR-P0001,Study Table,Furniture,SUP08,277.45,374.74,69,UrbanNest,41,28,25.96
+FUR-P0002,Office Chair,Furniture,SUP02,64.56,103.06,60,TimberCraft,26,12,37.36
+FUR-P0003,Bookshelf 5-Tier,Furniture,SUP08,100.58,136.99,56,OakHouse,24,16,26.58
+FUR-P0004,Bedside Table,Furniture,SUP08,109.71,203.52,69,OakHouse,29,19,46.09
+FUR-P0005,Folding Chair,Furniture,SUP02,171.4,283.59,69,OakHouse,22,20,39.56
+FUR-P0006,TV Stand,Furniture,SUP08,385.5,612.71,41,OakHouse,19,3,37.08
+FUR-P0007,Shoe Rack,Furniture,SUP08,78.96,125.7,79,OakHouse,29,26,37.18
+FUR-P0008,Coat Rack,Furniture,SUP02,378.24,621.46,64,OakHouse,31,19,39.14
+FUR-P0009,Wall Shelf Set,Furniture,SUP02,143.44,215.01,63,OakHouse,19,29,33.29
+FUR-P0010,Bean Bag,Furniture,SUP02,203.62,267.35,66,OakHouse,39,15,23.84
+FUR-P0011,Dining Chair,Furniture,SUP08,363.66,503.36,81,OakHouse,35,19,27.75
+FUR-P0012,Storage Cabinet,Furniture,SUP08,88.0,149.89,67,OakHouse,38,14,41.29
+FUR-P0013,Ottoman Stool,Furniture,SUP08,280.8,487.52,54,OakHouse,23,27,42.4
+FUR-P0014,Laptop Table,Furniture,SUP02,87.71,162.23,78,OakHouse,24,25,45.93
+FUR-P0015,Wardrobe 2-Door,Furniture,SUP02,63.09,103.02,51,OakHouse,27,27,38.76
+FUR-P0016,Bar Stool,Furniture,SUP02,340.43,607.65,58,OakHouse,28,16,43.98
+FUR-P0017,Kids Study Desk,Furniture,SUP02,383.51,565.5,55,OakHouse,29,24,32.18
+FUR-P0018,Recliner Chair,Furniture,SUP02,139.59,259.86,65,OakHouse,27,12,46.28
+FUR-P0019,Console Table,Furniture,SUP08,65.72,102.59,48,OakHouse,23,15,35.94
+FUR-P0020,Cushion Stool,Furniture,SUP02,362.09,633.36,89,OakHouse,49,23,42.83
+GRO-P0001,Basmati Rice 5kg,Groceries,SUP05,362.71,584.44,84,FreshHarvest,41,5,37.94
+GRO-P0002,Sunflower Oil 1L,Groceries,SUP03,320.2,543.38,55,FreshHarvest,22,22,41.07
+GRO-P0003,Wheat Flour 5kg,Groceries,SUP03,83.06,145.2,58,PureFarm,28,3,42.8
+GRO-P0004,Green Tea Pack,Groceries,SUP03,377.88,545.88,53,FreshHarvest,26,18,30.78
+GRO-P0005,Organic Honey 500g,Groceries,SUP01,340.89,474.51,46,FreshHarvest,27,15,28.16
+GRO-P0006,Masala Mix 200g,Groceries,SUP05,259.78,474.03,48,FreshHarvest,19,15,45.2
+GRO-P0007,Almonds 500g,Groceries,SUP01,158.61,280.18,49,FreshHarvest,20,16,43.39
+GRO-P0008,Brown Bread,Groceries,SUP01,225.26,312.29,88,FreshHarvest,47,16,27.87
+GRO-P0009,Coffee Powder 250g,Groceries,SUP05,130.38,179.81,40,FreshHarvest,18,13,27.49
+GRO-P0010,Peanut Butter 400g,Groceries,SUP01,92.64,148.58,73,FreshHarvest,38,15,37.65
+GRO-P0011,Cornflakes 500g,Groceries,SUP05,253.39,359.78,74,FreshHarvest,32,18,29.57
+GRO-P0012,Salt 1kg,Groceries,SUP05,300.39,523.7,80,NatureFresh,29,23,42.64
+GRO-P0013,Sugar 1kg,Groceries,SUP05,93.31,173.23,46,GrainGold,24,17,46.14
+GRO-P0014,Pasta 500g,Groceries,SUP01,155.33,247.46,59,FreshHarvest,20,20,37.23
+GRO-P0015,Ketchup 500ml,Groceries,SUP03,384.47,565.89,73,FreshHarvest,26,25,32.06
+GRO-P0016,Biscuits Pack,Groceries,SUP05,58.7,95.86,86,FreshHarvest,41,29,38.76
+GRO-P0017,Jaggery 500g,Groceries,SUP01,87.06,120.51,71,FreshHarvest,37,5,27.76
+GRO-P0018,Pickle 300g,Groceries,SUP05,388.18,643.46,60,FreshHarvest,34,22,39.67
+GRO-P0019,Milk Powder 500g,Groceries,SUP01,331.53,523.96,86,FreshHarvest,32,9,36.73
+GRO-P0020,Instant Noodles Pack,Groceries,SUP03,56.24,76.79,79,DailyBasket,26,8,26.76
+TOY-P0001,Building Blocks Set,Toys,SUP02,328.89,473.46,81,FunZone,47,24,30.53
+TOY-P0002,Remote Control Car,Toys,SUP02,262.11,477.21,66,FunZone,22,4,45.07
+TOY-P0003,Puzzle 500pc,Toys,SUP06,194.4,296.36,70,FunZone,25,25,34.4
+TOY-P0004,Action Figure,Toys,SUP06,278.18,506.43,61,ToyVerse,23,23,45.07
+TOY-P0005,Soft Plush Toy,Toys,SUP02,136.74,197.18,62,FunZone,28,29,30.65
+TOY-P0006,Board Game,Toys,SUP06,335.8,457.75,77,FunZone,43,21,26.64
+TOY-P0007,Toy Train Set,Toys,SUP06,258.05,358.1,43,FunZone,22,26,27.94
+TOY-P0008,Water Gun,Toys,SUP02,158.62,219.9,81,FunZone,41,6,27.87
+TOY-P0009,Building Blocks Mini,Toys,SUP06,107.94,158.76,86,FunZone,30,27,32.01
+TOY-P0010,Dollhouse,Toys,SUP06,90.42,118.69,47,FunZone,19,7,23.82
+TOY-P0011,Toy Kitchen Set,Toys,SUP06,111.12,148.02,42,FunZone,18,11,24.93
+TOY-P0012,Bicycle Kids,Toys,SUP02,288.25,442.8,69,FunZone,23,6,34.9
+TOY-P0013,Skateboard Kids,Toys,SUP06,226.58,413.51,55,FunZone,21,13,45.21
+TOY-P0014,Rubik Cube,Toys,SUP06,65.22,91.89,82,FunZone,32,23,29.02
+TOY-P0015,Kite Set,Toys,SUP06,137.29,225.53,51,FunZone,17,10,39.13
+TOY-P0016,Toy Drone,Toys,SUP06,67.24,102.49,60,FunZone,27,25,34.39
+TOY-P0017,Art Kit,Toys,SUP06,85.59,154.07,66,PlayNest,33,19,44.45
+TOY-P0018,Slime Kit,Toys,SUP02,373.69,508.02,42,KidCraft,13,19,26.44
+TOY-P0019,Toy Robot,Toys,SUP06,365.93,690.78,82,ToyVerse,36,28,47.03
+TOY-P0020,Card Game Set,Toys,SUP02,322.82,544.11,80,Wonderkid,42,14,40.67
+CLO-P0021,Cargo Pants Plus,Clothing,SUP17,675.2,1038.07,83,UrbanThread,44,25,34.96
+CLO-P0022,Silk Saree Plus,Clothing,SUP17,366.25,644.42,57,CottonCraft,19,25,43.17
+CLO-P0023,Kurta Set Plus,Clothing,SUP04,155.52,283.38,84,StyleNest,42,20,45.12
+CLO-P0024,Rain Jacket Plus,Clothing,SUP06,494.19,835.8,84,Denimo,28,9,40.87
+CLO-P0025,Woolen Sweater Plus,Clothing,SUP03,651.3,1063.35,89,WeaveWorks,47,18,38.75
+CLO-P0026,Sports Shorts Plus,Clothing,SUP12,565.18,952.62,74,UrbanThread,28,19,40.67
+CLO-P0027,Leather Belt Plus,Clothing,SUP01,477.54,706.16,49,CottonCraft,27,14,32.38
+CLO-P0028,Winter Jacket Plus,Clothing,SUP01,193.73,294.24,46,StyleNest,17,14,34.16
+CLO-P0029,Track Suit Plus,Clothing,SUP14,567.77,1033.53,99,Denimo,41,20,45.06
+CLO-P0030,Ethnic Kurti Classic,Clothing,SUP09,275.23,375.31,86,WeaveWorks,28,23,26.67
+CLO-P0031,Cotton T-Shirt Classic,Clothing,SUP15,496.41,718.19,93,UrbanThread,32,16,30.88
+CLO-P0032,Denim Jeans Classic,Clothing,SUP10,484.62,765.03,78,CottonCraft,30,21,36.65
+CLO-P0033,Formal Shirt Classic,Clothing,SUP13,421.36,591.0,53,StyleNest,31,6,28.7
+CLO-P0034,Summer Dress Classic,Clothing,SUP08,674.78,1018.6,93,Denimo,54,10,33.75
+CLO-P0035,Hoodie Classic,Clothing,SUP16,687.67,1113.76,81,WeaveWorks,26,10,38.26
+CLO-P0036,Cargo Pants Classic,Clothing,SUP09,491.83,723.69,93,UrbanThread,36,24,32.04
+CLO-P0037,Silk Saree Classic,Clothing,SUP12,282.58,526.72,31,CottonCraft,15,23,46.35
+CLO-P0038,Kurta Set Classic,Clothing,SUP14,620.48,1055.1,60,StyleNest,29,19,41.19
+CLO-P0039,Rain Jacket Classic,Clothing,SUP02,461.86,635.04,42,Denimo,16,16,27.27
+CLO-P0040,Woolen Sweater Classic,Clothing,SUP14,227.55,387.42,40,WeaveWorks,14,11,41.27
+ELE-P0021,Air Conditioner Plus,Electronics,SUP19,14694.1,22895.2,72,Voltex,22,18,35.82
+ELE-P0022,Room Cooler Plus,Electronics,SUP04,12264.66,22317.28,97,Nexcore,31,10,45.04
+ELE-P0023,Microwave Oven Plus,Electronics,SUP10,12471.39,23853.98,41,Zaptron,18,18,47.72
+ELE-P0024,Smart Watch Plus,Electronics,SUP17,8556.6,14224.52,48,Ionix,20,10,39.85
+ELE-P0025,Power Bank Plus,Electronics,SUP01,20726.78,39125.87,67,Circuitry,31,6,47.03
+ELE-P0026,Digital Camera Plus,Electronics,SUP07,16937.11,25723.07,37,Voltex,18,22,34.16
+ELE-P0027,Home Theatre Plus,Electronics,SUP15,19308.73,27314.99,73,Nexcore,26,27,29.31
+ELE-P0028,Electric Kettle Plus,Electronics,SUP05,14049.37,22093.38,32,Zaptron,17,15,36.41
+ELE-P0029,Ceiling Fan Plus,Electronics,SUP17,8201.62,15761.38,74,Ionix,33,10,47.96
+ELE-P0030,Water Purifier Classic,Electronics,SUP19,23426.67,33939.73,47,Circuitry,14,11,30.98
+ELE-P0031,Bluetooth Speaker Classic,Electronics,SUP09,24812.44,46771.61,36,Voltex,20,23,46.95
+ELE-P0032,Wireless Earbuds Classic,Electronics,SUP05,13163.92,20266.61,92,Nexcore,48,12,35.05
+ELE-P0033,Smartphone Classic,Electronics,SUP14,9591.98,13492.85,81,Zaptron,30,23,28.91
+ELE-P0034,LED TV Classic,Electronics,SUP01,6327.88,9008.72,95,Ionix,52,27,29.76
+ELE-P0035,Laptop Classic,Electronics,SUP04,4810.0,8223.32,80,Circuitry,28,26,41.51
+ELE-P0036,Air Conditioner Classic,Electronics,SUP06,19524.16,37742.07,51,Voltex,22,14,48.27
+ELE-P0037,Room Cooler Classic,Electronics,SUP03,742.83,1105.18,49,Nexcore,24,6,32.79
+ELE-P0038,Microwave Oven Classic,Electronics,SUP20,12855.72,22710.37,38,Zaptron,18,14,43.39
+ELE-P0039,Smart Watch Classic,Electronics,SUP04,20181.46,35907.75,35,Ionix,11,22,43.8
+ELE-P0040,Power Bank Classic,Electronics,SUP09,23218.04,36882.95,38,Circuitry,14,6,37.05
+FUR-P0021,Wooden Chair Classic,Furniture,SUP10,12234.98,23532.44,66,OakHouse,38,10,48.01
+FUR-P0022,Study Table Classic,Furniture,SUP10,10393.89,17985.43,31,UrbanNest,10,22,42.21
+FUR-P0023,Sofa Set Classic,Furniture,SUP03,8066.85,15566.92,41,TimberCraft,23,19,48.18
+FUR-P0024,Bookshelf Classic,Furniture,SUP15,8892.23,16191.49,86,HomeForm,26,20,45.08
+FUR-P0025,Dining Table Classic,Furniture,SUP03,15083.23,27573.51,62,WoodWorks,28,9,45.3
+FUR-P0026,Bed Frame Classic,Furniture,SUP16,15738.34,26941.9,72,OakHouse,30,6,41.58
+FUR-P0027,Wardrobe Classic,Furniture,SUP08,8182.58,14247.17,97,UrbanNest,42,26,42.57
+FUR-P0028,Office Chair Classic,Furniture,SUP11,4946.93,8892.64,47,TimberCraft,25,28,44.37
+FUR-P0029,Coffee Table Classic,Furniture,SUP03,2038.16,3478.45,55,HomeForm,30,6,41.41
+FUR-P0030,TV Unit Mini,Furniture,SUP07,3360.21,6393.08,51,WoodWorks,17,7,47.44
+FUR-P0031,Wooden Chair Mini,Furniture,SUP06,3526.79,5005.55,67,OakHouse,21,3,29.54
+FUR-P0032,Study Table Mini,Furniture,SUP04,1812.83,3090.31,42,UrbanNest,21,24,41.34
+FUR-P0033,Sofa Set Mini,Furniture,SUP08,6337.65,10474.33,81,TimberCraft,44,26,39.49
+FUR-P0034,Bookshelf Mini,Furniture,SUP11,4003.62,5973.59,33,HomeForm,12,20,32.98
+FUR-P0035,Dining Table Mini,Furniture,SUP12,8018.09,11061.38,30,WoodWorks,13,13,27.51
+FUR-P0036,Bed Frame Mini,Furniture,SUP18,15152.14,20927.79,37,OakHouse,21,21,27.6
+FUR-P0037,Wardrobe Mini,Furniture,SUP02,15325.13,28988.89,46,UrbanNest,24,29,47.13
+FUR-P0038,Office Chair Mini,Furniture,SUP12,11886.46,21602.43,84,TimberCraft,28,25,44.98
+FUR-P0039,Coffee Table Mini,Furniture,SUP11,9693.21,18073.41,88,HomeForm,36,15,46.37
+FUR-P0040,TV Unit Deluxe,Furniture,SUP14,5456.52,7823.89,74,WoodWorks,32,7,30.26
+GRO-P0021,Cold Drink 2L Plus,Groceries,SUP09,96.75,151.95,65,FreshHarvest,25,12,36.33
+GRO-P0022,Instant Noodles Pack Plus,Groceries,SUP09,246.3,376.38,56,DailyBasket,32,21,34.56
+GRO-P0023,Biscuit Pack Plus,Groceries,SUP19,178.7,276.45,62,PureFarm,34,17,35.36
+GRO-P0024,Pulses 1kg Plus,Groceries,SUP10,285.45,476.6,75,GrainGold,36,4,40.11
+GRO-P0025,Salt 1kg Plus,Groceries,SUP06,262.51,386.27,71,NatureFresh,39,21,32.04
+GRO-P0026,Ice Cream Tub Plus,Groceries,SUP19,222.75,313.42,39,FreshHarvest,20,18,28.93
+GRO-P0027,Bottled Water 1L Plus,Groceries,SUP02,328.86,471.07,97,DailyBasket,52,28,30.19
+GRO-P0028,Coffee Powder 200g Plus,Groceries,SUP09,278.27,508.42,71,PureFarm,41,5,45.27
+GRO-P0029,Fruit Juice 1L Plus,Groceries,SUP06,214.73,302.13,66,GrainGold,23,19,28.93
+GRO-P0030,Snack Combo Pack Classic,Groceries,SUP03,208.9,340.42,69,NatureFresh,31,22,38.63
+GRO-P0031,Basmati Rice 5kg Classic,Groceries,SUP16,283.75,466.85,46,FreshHarvest,26,19,39.22
+GRO-P0032,Cooking Oil 1L Classic,Groceries,SUP17,58.64,82.25,38,DailyBasket,18,22,28.71
+GRO-P0033,Wheat Flour 5kg Classic,Groceries,SUP09,275.53,482.93,81,PureFarm,46,12,42.95
+GRO-P0034,Sugar 1kg Classic,Groceries,SUP17,109.28,171.41,83,GrainGold,32,11,36.25
+GRO-P0035,Tea Leaves 250g Classic,Groceries,SUP04,68.77,131.47,68,NatureFresh,28,14,47.69
+GRO-P0036,Cold Drink 2L Classic,Groceries,SUP03,202.49,387.1,81,FreshHarvest,43,19,47.69
+GRO-P0037,Instant Noodles Pack Classic,Groceries,SUP10,144.2,280.03,30,DailyBasket,17,22,48.51
+GRO-P0038,Biscuit Pack Classic,Groceries,SUP09,300.68,520.85,38,PureFarm,12,15,42.27
+GRO-P0039,Pulses 1kg Classic,Groceries,SUP12,246.41,334.47,36,GrainGold,19,15,26.33
+GRO-P0040,Salt 1kg Classic,Groceries,SUP09,171.32,276.75,50,NatureFresh,19,16,38.1
+TOY-P0021,Toy Drone Classic,Toys,SUP19,720.66,1020.71,57,FunZone,32,29,29.4
+TOY-P0022,Art Kit Classic,Toys,SUP14,766.26,1083.38,49,PlayNest,29,3,29.27
+TOY-P0023,Slime Kit Classic,Toys,SUP14,613.1,860.95,77,KidCraft,23,27,28.79
+TOY-P0024,Toy Robot Classic,Toys,SUP05,197.28,358.27,46,ToyVerse,16,3,44.94
+TOY-P0025,Card Game Set Classic,Toys,SUP19,618.14,847.9,30,Wonderkid,9,3,27.1
+TOY-P0026,Building Blocks Classic,Toys,SUP17,737.22,1100.77,72,FunZone,39,9,33.03
+TOY-P0027,Remote Car Classic,Toys,SUP02,736.79,1404.82,38,PlayNest,19,23,47.55
+TOY-P0028,Puzzle Set Classic,Toys,SUP17,112.92,166.11,88,KidCraft,29,21,32.02
+TOY-P0029,Action Figure Classic,Toys,SUP11,691.05,1194.14,36,ToyVerse,12,25,42.13
+TOY-P0030,Doll House Mini,Toys,SUP17,238.29,360.4,81,Wonderkid,41,17,33.88
+TOY-P0031,Toy Drone Mini,Toys,SUP20,581.47,804.0,34,FunZone,10,19,27.68
+TOY-P0032,Art Kit Mini,Toys,SUP05,661.85,962.25,91,PlayNest,29,23,31.22
+TOY-P0033,Slime Kit Mini,Toys,SUP04,883.62,1436.0,68,KidCraft,33,24,38.47
+TOY-P0034,Toy Robot Mini,Toys,SUP18,199.01,381.62,70,ToyVerse,27,14,47.85
+TOY-P0035,Card Game Set Mini,Toys,SUP12,653.82,1137.35,60,Wonderkid,20,28,42.51
+TOY-P0036,Building Blocks Mini,Toys,SUP10,411.31,672.29,65,FunZone,21,29,38.82
+TOY-P0037,Remote Car Mini,Toys,SUP03,308.02,472.14,73,PlayNest,35,14,34.76
+TOY-P0038,Puzzle Set Mini,Toys,SUP09,417.68,666.31,74,KidCraft,27,28,37.31
+TOY-P0039,Action Figure Mini,Toys,SUP12,339.97,466.32,50,ToyVerse,22,14,27.1
+TOY-P0040,Doll House Deluxe,Toys,SUP03,549.42,928.22,45,Wonderkid,22,17,40.81
+HOM-P0001,Wall Clock,Home Decor,SUP13,1665.84,2564.94,47,DecoLuxe,21,24,35.05
+HOM-P0002,Table Lamp,Home Decor,SUP04,1602.43,2510.04,60,HomeAura,27,24,36.16
+HOM-P0003,Photo Frame Set,Home Decor,SUP15,2227.37,4237.87,89,CraftWalls,40,16,47.44
+HOM-P0004,Wall Art Canvas,Home Decor,SUP06,854.68,1583.23,85,LumiHome,38,4,46.02
+HOM-P0005,Decorative Vase,Home Decor,SUP03,272.94,506.36,87,ArtNest,33,4,46.1
+HOM-P0006,Curtain Set,Home Decor,SUP12,515.19,792.54,53,DecoLuxe,27,27,35.0
+HOM-P0007,Scented Candle Pack,Home Decor,SUP01,2085.22,3886.7,59,HomeAura,20,13,46.35
+HOM-P0008,Rug,Home Decor,SUP05,387.21,607.51,72,CraftWalls,42,5,36.26
+HOM-P0009,Mirror Frame,Home Decor,SUP20,1953.05,3001.01,83,LumiHome,42,21,34.92
+HOM-P0010,Fairy Lights,Home Decor,SUP16,1638.13,2222.02,57,ArtNest,20,23,26.28
+HOM-P0011,Wall Clock Plus,Home Decor,SUP11,493.0,714.63,59,DecoLuxe,35,25,31.01
+HOM-P0012,Table Lamp Plus,Home Decor,SUP20,2113.77,4109.58,68,HomeAura,23,16,48.56
+HOM-P0013,Photo Frame Set Plus,Home Decor,SUP09,1042.17,1456.98,88,CraftWalls,37,23,28.47
+HOM-P0014,Wall Art Canvas Plus,Home Decor,SUP10,461.62,673.3,62,LumiHome,35,28,31.44
+HOM-P0015,Decorative Vase Plus,Home Decor,SUP01,658.85,1004.9,43,ArtNest,20,16,34.44
+HOM-P0016,Curtain Set Plus,Home Decor,SUP15,301.88,451.67,64,DecoLuxe,35,26,33.16
+HOM-P0017,Scented Candle Pack Plus,Home Decor,SUP13,1657.96,2904.95,85,HomeAura,26,23,42.93
+HOM-P0018,Rug Plus,Home Decor,SUP15,1394.87,2166.34,55,CraftWalls,30,11,35.61
+HOM-P0019,Mirror Frame Plus,Home Decor,SUP10,1944.71,3619.51,55,LumiHome,31,16,46.27
+HOM-P0020,Fairy Lights Classic,Home Decor,SUP07,2140.66,3327.34,71,ArtNest,31,25,35.66
+HOM-P0021,Wall Clock Classic,Home Decor,SUP11,351.95,559.29,99,DecoLuxe,48,27,37.07
+HOM-P0022,Table Lamp Classic,Home Decor,SUP08,913.25,1337.88,42,HomeAura,12,19,31.74
+HOM-P0023,Photo Frame Set Classic,Home Decor,SUP19,1175.7,1804.14,39,CraftWalls,11,19,34.83
+HOM-P0024,Wall Art Canvas Classic,Home Decor,SUP09,1787.28,3092.46,49,LumiHome,29,24,42.21
+HOM-P0025,Decorative Vase Classic,Home Decor,SUP13,1246.01,2251.37,75,ArtNest,38,27,44.66
+HOM-P0026,Curtain Set Classic,Home Decor,SUP06,1976.81,3696.79,97,DecoLuxe,32,16,46.53
+HOM-P0027,Scented Candle Pack Classic,Home Decor,SUP15,1156.21,1944.59,97,HomeAura,57,20,40.54
+HOM-P0028,Rug Classic,Home Decor,SUP03,791.75,1417.43,98,CraftWalls,51,20,44.14
+HOM-P0029,Mirror Frame Classic,Home Decor,SUP07,397.29,546.1,65,LumiHome,29,23,27.25
+HOM-P0030,Fairy Lights Mini,Home Decor,SUP18,1215.94,2354.97,98,ArtNest,41,4,48.37
+HOM-P0031,Wall Clock Mini,Home Decor,SUP16,303.57,510.99,67,DecoLuxe,38,24,40.59
+HOM-P0032,Table Lamp Mini,Home Decor,SUP09,188.73,296.99,87,HomeAura,27,12,36.45
+HOM-P0033,Photo Frame Set Mini,Home Decor,SUP03,1720.73,3059.38,75,CraftWalls,41,23,43.76
+HOM-P0034,Wall Art Canvas Mini,Home Decor,SUP15,2022.09,2789.23,81,LumiHome,29,5,27.5
+HOM-P0035,Decorative Vase Mini,Home Decor,SUP13,2159.5,2921.16,96,ArtNest,48,16,26.07
+KIT-P0001,Non-Stick Pan,Kitchen,SUP11,1494.54,2820.77,32,ChefPro,16,9,47.02
+KIT-P0002,Pressure Cooker,Kitchen,SUP05,3006.82,4687.09,84,KitchCraft,32,26,35.85
+KIT-P0003,Knife Set,Kitchen,SUP15,1479.75,2241.67,71,CookWell,40,26,33.99
+KIT-P0004,Mixer Grinder,Kitchen,SUP04,434.12,675.12,61,HomeChef,33,22,35.7
+KIT-P0005,Dinner Set,Kitchen,SUP11,1142.81,1822.51,99,SteelWare,33,6,37.29
+KIT-P0006,Storage Container Set,Kitchen,SUP12,3491.89,6182.49,81,ChefPro,33,19,43.52
+KIT-P0007,Steel Cookware Set,Kitchen,SUP10,1814.67,2596.1,94,KitchCraft,38,5,30.1
+KIT-P0008,Blender,Kitchen,SUP02,826.63,1124.71,51,CookWell,25,15,26.5
+KIT-P0009,Chopping Board,Kitchen,SUP18,1558.28,3000.51,54,HomeChef,28,16,48.07
+KIT-P0010,Tiffin Box,Kitchen,SUP11,1103.21,2083.08,57,SteelWare,22,9,47.04
+KIT-P0011,Non-Stick Pan Plus,Kitchen,SUP18,1923.97,3454.28,93,ChefPro,44,19,44.3
+KIT-P0012,Pressure Cooker Plus,Kitchen,SUP14,1152.93,1723.43,50,KitchCraft,17,11,33.1
+KIT-P0013,Knife Set Plus,Kitchen,SUP07,1098.88,1853.69,91,CookWell,48,18,40.72
+KIT-P0014,Mixer Grinder Plus,Kitchen,SUP16,1618.59,2647.62,96,HomeChef,48,29,38.87
+KIT-P0015,Dinner Set Plus,Kitchen,SUP06,3173.56,5783.98,87,SteelWare,30,7,45.13
+KIT-P0016,Storage Container Set Plus,Kitchen,SUP12,491.35,855.81,52,ChefPro,23,28,42.59
+KIT-P0017,Steel Cookware Set Plus,Kitchen,SUP19,270.07,520.12,60,KitchCraft,19,10,48.08
+KIT-P0018,Blender Plus,Kitchen,SUP01,974.32,1353.64,98,CookWell,44,15,28.02
+KIT-P0019,Chopping Board Plus,Kitchen,SUP16,320.72,454.45,51,HomeChef,21,23,29.43
+KIT-P0020,Tiffin Box Classic,Kitchen,SUP02,2488.94,3669.23,98,SteelWare,40,11,32.17
+KIT-P0021,Non-Stick Pan Classic,Kitchen,SUP05,155.56,220.47,59,ChefPro,32,7,29.44
+KIT-P0022,Pressure Cooker Classic,Kitchen,SUP01,1852.36,3044.73,32,KitchCraft,13,11,39.16
+KIT-P0023,Knife Set Classic,Kitchen,SUP12,2968.03,4470.47,84,CookWell,33,19,33.61
+KIT-P0024,Mixer Grinder Classic,Kitchen,SUP05,1757.54,3093.19,53,HomeChef,21,9,43.18
+KIT-P0025,Dinner Set Classic,Kitchen,SUP05,312.71,508.61,95,SteelWare,48,8,38.52
+KIT-P0026,Storage Container Set Classic,Kitchen,SUP04,308.7,442.34,31,ChefPro,9,27,30.21
+KIT-P0027,Steel Cookware Set Classic,Kitchen,SUP19,254.8,360.89,43,KitchCraft,20,15,29.4
+KIT-P0028,Blender Classic,Kitchen,SUP05,2056.86,3505.13,78,CookWell,23,25,41.32
+KIT-P0029,Chopping Board Classic,Kitchen,SUP06,2224.05,3219.64,89,HomeChef,47,29,30.92
+KIT-P0030,Tiffin Box Mini,Kitchen,SUP18,1001.78,1904.66,68,SteelWare,32,15,47.4
+KIT-P0031,Non-Stick Pan Mini,Kitchen,SUP19,1361.15,2501.65,98,ChefPro,38,17,45.59
+KIT-P0032,Pressure Cooker Mini,Kitchen,SUP16,2162.46,3200.04,66,KitchCraft,26,14,32.42
+KIT-P0033,Knife Set Mini,Kitchen,SUP17,249.95,389.39,35,CookWell,10,21,35.81
+KIT-P0034,Mixer Grinder Mini,Kitchen,SUP04,2579.36,4577.99,51,HomeChef,20,22,43.66
+KIT-P0035,Dinner Set Mini,Kitchen,SUP03,2139.33,3049.86,92,SteelWare,31,21,29.85
+SPO-P0001,Yoga Mat,Sports,SUP14,857.19,1418.11,38,ActiveGear,11,29,39.55
+SPO-P0002,Cricket Bat,Sports,SUP19,3973.72,6758.44,31,ProSport,10,18,41.2
+SPO-P0003,Football,Sports,SUP18,3545.45,5927.0,41,FitZone,15,19,40.18
+SPO-P0004,Dumbbell Set,Sports,SUP15,2459.36,3755.08,33,PowerPlay,16,29,34.51
+SPO-P0005,Badminton Racket,Sports,SUP17,269.01,459.32,40,EnduroFit,22,9,41.43
+SPO-P0006,Running Shoes,Sports,SUP17,2520.93,4240.52,47,ActiveGear,19,23,40.55
+SPO-P0007,Skipping Rope,Sports,SUP14,2957.92,4999.37,48,ProSport,28,23,40.83
+SPO-P0008,Cycling Helmet,Sports,SUP03,2155.42,2925.94,59,FitZone,31,12,26.33
+SPO-P0009,Gym Gloves,Sports,SUP11,1750.25,2461.63,84,PowerPlay,35,27,28.9
+SPO-P0010,Fitness Band,Sports,SUP04,767.62,1479.15,77,EnduroFit,27,21,48.1
+SPO-P0011,Yoga Mat Plus,Sports,SUP04,3464.13,6573.36,47,ActiveGear,20,8,47.3
+SPO-P0012,Cricket Bat Plus,Sports,SUP18,3537.79,5580.62,81,ProSport,36,5,36.61
+SPO-P0013,Football Plus,Sports,SUP15,2978.32,5419.88,96,FitZone,31,18,45.05
+SPO-P0014,Dumbbell Set Plus,Sports,SUP16,3489.18,6381.22,93,PowerPlay,30,3,45.32
+SPO-P0015,Badminton Racket Plus,Sports,SUP05,3025.68,4126.68,44,EnduroFit,18,29,26.68
+SPO-P0016,Running Shoes Plus,Sports,SUP17,3572.77,5669.19,80,ActiveGear,31,12,36.98
+SPO-P0017,Skipping Rope Plus,Sports,SUP13,2407.76,3841.54,30,ProSport,17,19,37.32
+SPO-P0018,Cycling Helmet Plus,Sports,SUP11,947.62,1493.76,62,FitZone,25,23,36.56
+SPO-P0019,Gym Gloves Plus,Sports,SUP03,818.91,1441.89,33,PowerPlay,19,12,43.21
+SPO-P0020,Fitness Band Classic,Sports,SUP15,575.91,1037.85,47,EnduroFit,26,12,44.51
+SPO-P0021,Yoga Mat Classic,Sports,SUP06,967.93,1414.59,63,ActiveGear,27,17,31.58
+SPO-P0022,Cricket Bat Classic,Sports,SUP10,371.66,609.11,48,ProSport,28,9,38.98
+SPO-P0023,Football Classic,Sports,SUP14,2082.92,2950.28,46,FitZone,17,9,29.4
+SPO-P0024,Dumbbell Set Classic,Sports,SUP07,3531.5,6678.01,83,PowerPlay,49,19,47.12
+SPO-P0025,Badminton Racket Classic,Sports,SUP20,3821.4,5323.57,58,EnduroFit,22,6,28.22
+SPO-P0026,Running Shoes Classic,Sports,SUP05,568.52,1056.01,68,ActiveGear,32,13,46.16
+SPO-P0027,Skipping Rope Classic,Sports,SUP11,828.18,1243.89,61,ProSport,33,7,33.42
+SPO-P0028,Cycling Helmet Classic,Sports,SUP08,2993.49,4572.91,70,FitZone,28,25,34.54
+SPO-P0029,Gym Gloves Classic,Sports,SUP09,3088.06,5599.92,33,PowerPlay,19,8,44.86
+SPO-P0030,Fitness Band Mini,Sports,SUP09,3605.26,5084.27,38,EnduroFit,14,7,29.09
+SPO-P0031,Yoga Mat Mini,Sports,SUP17,882.07,1409.67,34,ActiveGear,12,15,37.43
+SPO-P0032,Cricket Bat Mini,Sports,SUP18,3435.07,6439.88,79,ProSport,31,17,46.66
+SPO-P0033,Football Mini,Sports,SUP11,1143.94,1712.34,50,FitZone,29,7,33.19
+SPO-P0034,Dumbbell Set Mini,Sports,SUP02,3153.96,5237.46,92,PowerPlay,41,15,39.78
+SPO-P0035,Badminton Racket Mini,Sports,SUP11,2238.96,3606.38,55,EnduroFit,18,6,37.92
+BEA-P0001,Face Wash,Beauty,SUP04,416.7,800.87,96,GlowUp,33,13,47.97
+BEA-P0002,Sunscreen Lotion,Beauty,SUP12,213.71,320.97,91,PureSkin,30,3,33.42
+BEA-P0003,Lipstick,Beauty,SUP04,297.93,510.91,94,LuxeBeauty,41,29,41.69
+BEA-P0004,Hair Oil,Beauty,SUP09,453.6,663.32,88,DermaCare,48,29,31.62
+BEA-P0005,Shampoo 500ml,Beauty,SUP17,406.88,586.61,81,RadianceCo,46,21,30.64
+BEA-P0006,Moisturizer Cream,Beauty,SUP07,97.08,151.0,33,GlowUp,16,24,35.71
+BEA-P0007,Perfume,Beauty,SUP02,647.29,956.16,82,PureSkin,47,17,32.3
+BEA-P0008,Face Serum,Beauty,SUP09,532.87,720.11,68,LuxeBeauty,26,29,26.0
+BEA-P0009,Talcum Powder,Beauty,SUP18,399.11,569.7,34,DermaCare,11,24,29.94
+BEA-P0010,Hair Dryer,Beauty,SUP13,350.77,667.55,75,RadianceCo,38,11,47.45
+BEA-P0011,Face Wash Plus,Beauty,SUP15,548.36,937.6,62,GlowUp,27,19,41.51
+BEA-P0012,Sunscreen Lotion Plus,Beauty,SUP20,313.61,456.72,36,PureSkin,19,21,31.33
+BEA-P0013,Lipstick Plus,Beauty,SUP12,392.73,740.49,32,LuxeBeauty,16,10,46.96
+BEA-P0014,Hair Oil Plus,Beauty,SUP20,453.25,791.37,42,DermaCare,24,11,42.73
+BEA-P0015,Shampoo 500ml Plus,Beauty,SUP15,606.5,965.48,55,RadianceCo,25,7,37.18
+BEA-P0016,Moisturizer Cream Plus,Beauty,SUP15,436.61,827.05,53,GlowUp,26,14,47.21
+BEA-P0017,Perfume Plus,Beauty,SUP09,362.04,584.34,53,PureSkin,17,25,38.04
+BEA-P0018,Face Serum Plus,Beauty,SUP02,553.94,965.69,81,LuxeBeauty,24,20,42.64
+BEA-P0019,Talcum Powder Plus,Beauty,SUP18,206.38,374.97,52,DermaCare,29,23,44.96
+BEA-P0020,Hair Dryer Classic,Beauty,SUP05,554.21,791.2,90,RadianceCo,30,10,29.95
+BEA-P0021,Face Wash Classic,Beauty,SUP06,559.31,1060.56,49,GlowUp,17,28,47.26
+BEA-P0022,Sunscreen Lotion Classic,Beauty,SUP11,579.03,1112.75,70,PureSkin,26,19,47.96
+BEA-P0023,Lipstick Classic,Beauty,SUP07,297.16,575.21,73,LuxeBeauty,30,14,48.34
+BEA-P0024,Hair Oil Classic,Beauty,SUP14,77.19,122.73,79,DermaCare,38,26,37.11
+BEA-P0025,Shampoo 500ml Classic,Beauty,SUP08,752.59,1401.62,61,RadianceCo,24,26,46.31
+BEA-P0026,Moisturizer Cream Classic,Beauty,SUP11,422.47,730.59,86,GlowUp,32,12,42.17
+BEA-P0027,Perfume Classic,Beauty,SUP09,743.67,1380.25,93,PureSkin,55,3,46.12
+BEA-P0028,Face Serum Classic,Beauty,SUP15,625.85,1131.26,37,LuxeBeauty,16,15,44.68
+BEA-P0029,Talcum Powder Classic,Beauty,SUP14,537.17,818.43,46,DermaCare,17,15,34.37
+BEA-P0030,Hair Dryer Mini,Beauty,SUP12,363.39,538.29,76,RadianceCo,42,25,32.49
+BEA-P0031,Face Wash Mini,Beauty,SUP12,65.56,101.73,41,GlowUp,22,6,35.55
+BEA-P0032,Sunscreen Lotion Mini,Beauty,SUP17,162.36,294.62,72,PureSkin,30,6,44.89
+BEA-P0033,Lipstick Mini,Beauty,SUP10,202.52,292.11,99,LuxeBeauty,42,13,30.67
+BEA-P0034,Hair Oil Mini,Beauty,SUP13,750.35,1454.55,74,DermaCare,25,4,48.41
+BEA-P0035,Shampoo 500ml Mini,Beauty,SUP12,260.27,489.54,85,RadianceCo,42,15,46.83
+STA-P0001,Notebook Pack,Stationery,SUP03,502.03,730.86,40,WriteWell,18,14,31.31
+STA-P0002,Ball Pen Set,Stationery,SUP05,416.41,725.22,65,PaperCraft,38,3,42.58
+STA-P0003,Geometry Box,Stationery,SUP20,317.13,446.24,77,InkWorks,45,22,28.93
+STA-P0004,School Bag,Stationery,SUP07,284.81,457.08,52,StudyPro,16,12,37.69
+STA-P0005,Colour Pencils,Stationery,SUP14,221.7,404.04,77,NoteNest,42,25,45.13
+STA-P0006,Sketch Pen Set,Stationery,SUP19,203.1,365.44,59,WriteWell,31,7,44.42
+STA-P0007,Printer Paper Ream,Stationery,SUP10,537.42,771.92,69,PaperCraft,22,26,30.38
+STA-P0008,File Folder Pack,Stationery,SUP07,327.3,455.11,40,InkWorks,12,9,28.08
+STA-P0009,Highlighter Set,Stationery,SUP01,270.25,490.44,36,StudyPro,17,3,44.9
+STA-P0010,Calculator,Stationery,SUP15,113.28,162.91,87,NoteNest,48,10,30.46
+STA-P0011,Notebook Pack Plus,Stationery,SUP17,330.28,608.22,33,WriteWell,13,5,45.7
+STA-P0012,Ball Pen Set Plus,Stationery,SUP11,165.61,298.33,81,PaperCraft,36,17,44.49
+STA-P0013,Geometry Box Plus,Stationery,SUP16,286.84,450.55,58,InkWorks,21,8,36.34
+STA-P0014,School Bag Plus,Stationery,SUP13,84.56,118.52,82,StudyPro,28,7,28.65
+STA-P0015,Colour Pencils Plus,Stationery,SUP04,496.52,789.02,78,NoteNest,26,29,37.07
+STA-P0016,Sketch Pen Set Plus,Stationery,SUP20,277.51,440.06,75,WriteWell,42,28,36.94
+STA-P0017,Printer Paper Ream Plus,Stationery,SUP20,525.62,770.23,73,PaperCraft,36,8,31.76
+STA-P0018,File Folder Pack Plus,Stationery,SUP19,444.81,751.66,50,InkWorks,23,13,40.82
+STA-P0019,Highlighter Set Plus,Stationery,SUP17,430.66,588.26,67,StudyPro,32,4,26.79
+STA-P0020,Calculator Classic,Stationery,SUP08,167.21,267.74,64,NoteNest,33,5,37.55
+STA-P0021,Notebook Pack Classic,Stationery,SUP17,343.32,542.87,82,WriteWell,37,10,36.76
+STA-P0022,Ball Pen Set Classic,Stationery,SUP04,345.0,605.82,52,PaperCraft,16,12,43.05
+STA-P0023,Geometry Box Classic,Stationery,SUP01,139.18,262.59,84,InkWorks,29,20,47.0
+STA-P0024,School Bag Classic,Stationery,SUP17,289.92,474.21,92,StudyPro,53,15,38.86
+STA-P0025,Colour Pencils Classic,Stationery,SUP02,140.88,239.7,62,NoteNest,31,8,41.23
+STA-P0026,Sketch Pen Set Classic,Stationery,SUP01,73.01,107.63,44,WriteWell,18,17,32.17
+STA-P0027,Printer Paper Ream Classic,Stationery,SUP04,93.79,175.03,42,PaperCraft,17,11,46.41
+STA-P0028,File Folder Pack Classic,Stationery,SUP05,224.06,338.08,33,InkWorks,15,14,33.73
+STA-P0029,Highlighter Set Classic,Stationery,SUP05,534.69,1020.08,78,StudyPro,25,5,47.58
+STA-P0030,Calculator Mini,Stationery,SUP02,377.45,537.18,38,NoteNest,21,28,29.73
+STA-P0031,Notebook Pack Mini,Stationery,SUP16,494.59,823.81,40,WriteWell,12,29,39.96
+STA-P0032,Ball Pen Set Mini,Stationery,SUP05,204.5,392.47,58,PaperCraft,27,27,47.89
+STA-P0033,Geometry Box Mini,Stationery,SUP17,114.65,222.1,52,InkWorks,23,16,48.38
+STA-P0034,School Bag Mini,Stationery,SUP06,237.73,377.64,97,StudyPro,46,15,37.05
+STA-P0035,Colour Pencils Mini,Stationery,SUP03,202.84,297.35,98,NoteNest,54,5,31.78
+PET-P0001,Dog Food 3kg,Pet Supplies,SUP01,481.71,768.42,71,PetJoy,30,24,37.31
+PET-P0002,Cat Litter Pack,Pet Supplies,SUP13,1117.98,2134.97,81,WoofWell,32,13,47.63
+PET-P0003,Pet Shampoo,Pet Supplies,SUP06,716.09,1165.14,61,PawCare,30,12,38.54
+PET-P0004,Pet Leash,Pet Supplies,SUP12,439.2,684.03,34,TailWag,11,13,35.79
+PET-P0005,Pet Bed,Pet Supplies,SUP07,889.89,1409.1,41,FurFriend,14,24,36.85
+PET-P0006,Bird Cage,Pet Supplies,SUP12,926.2,1393.42,66,PetJoy,38,25,33.53
+PET-P0007,Fish Tank Filter,Pet Supplies,SUP04,829.22,1145.61,71,WoofWell,41,25,27.62
+PET-P0008,Pet Grooming Kit,Pet Supplies,SUP08,1114.77,1892.2,98,PawCare,30,3,41.09
+PET-P0009,Chew Toy,Pet Supplies,SUP19,710.19,970.06,77,TailWag,40,7,26.79
+PET-P0010,Pet Bowl Set,Pet Supplies,SUP18,635.99,1036.32,61,FurFriend,32,3,38.63
+PET-P0011,Dog Food 3kg Plus,Pet Supplies,SUP19,1064.22,1674.91,53,PetJoy,24,4,36.46
+PET-P0012,Cat Litter Pack Plus,Pet Supplies,SUP06,259.86,471.63,40,WoofWell,18,16,44.9
+PET-P0013,Pet Shampoo Plus,Pet Supplies,SUP05,1159.21,2160.05,97,PawCare,34,28,46.33
+PET-P0014,Pet Leash Plus,Pet Supplies,SUP12,1063.53,1674.72,38,TailWag,20,5,36.5
+PET-P0015,Pet Bed Plus,Pet Supplies,SUP11,712.12,1381.0,63,FurFriend,30,27,48.43
+PET-P0016,Bird Cage Plus,Pet Supplies,SUP09,494.38,791.29,39,PetJoy,20,6,37.52
+PET-P0017,Fish Tank Filter Plus,Pet Supplies,SUP05,398.52,610.64,88,WoofWell,49,4,34.74
+PET-P0018,Pet Grooming Kit Plus,Pet Supplies,SUP01,662.91,1079.35,60,PawCare,20,21,38.58
+PET-P0019,Chew Toy Plus,Pet Supplies,SUP13,501.94,863.95,76,TailWag,23,18,41.9
+PET-P0020,Pet Bowl Set Classic,Pet Supplies,SUP10,664.92,983.15,61,FurFriend,21,6,32.37
+PET-P0021,Dog Food 3kg Classic,Pet Supplies,SUP10,188.43,361.48,54,PetJoy,22,9,47.87
+PET-P0022,Cat Litter Pack Classic,Pet Supplies,SUP17,1171.35,1638.06,70,WoofWell,39,20,28.49
+PET-P0023,Pet Shampoo Classic,Pet Supplies,SUP18,560.51,901.66,74,PawCare,22,8,37.84
+PET-P0024,Pet Leash Classic,Pet Supplies,SUP11,1192.77,2296.35,76,TailWag,38,4,48.06
+PET-P0025,Pet Bed Classic,Pet Supplies,SUP11,1091.35,1502.86,51,FurFriend,29,23,27.38
+PET-P0026,Bird Cage Classic,Pet Supplies,SUP17,211.6,293.26,30,PetJoy,10,25,27.85
+PET-P0027,Fish Tank Filter Classic,Pet Supplies,SUP15,1105.63,1869.03,67,WoofWell,28,24,40.84
+PET-P0028,Pet Grooming Kit Classic,Pet Supplies,SUP09,150.69,291.02,50,PawCare,17,11,48.22
+PET-P0029,Chew Toy Classic,Pet Supplies,SUP11,1160.1,1631.76,50,TailWag,28,6,28.9
+PET-P0030,Pet Bowl Set Mini,Pet Supplies,SUP15,1009.62,1954.16,73,FurFriend,42,25,48.33
+PET-P0031,Dog Food 3kg Mini,Pet Supplies,SUP13,971.28,1629.23,38,PetJoy,17,29,40.38
+PET-P0032,Cat Litter Pack Mini,Pet Supplies,SUP18,1168.42,2071.5,83,WoofWell,36,16,43.6
+PET-P0033,Pet Shampoo Mini,Pet Supplies,SUP18,484.99,768.66,57,PawCare,18,22,36.9
+PET-P0034,Pet Leash Mini,Pet Supplies,SUP02,953.45,1542.34,43,TailWag,20,28,38.18
+PET-P0035,Pet Bed Mini,Pet Supplies,SUP02,256.43,377.85,32,FurFriend,18,25,32.13

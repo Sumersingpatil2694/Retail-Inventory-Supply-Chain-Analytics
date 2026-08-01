@@ -1,6 +1,26 @@
-store_id,store_name,city,warehouse_id,store_type
-S001,Pune Central Store,Pune,W01,Tier-1
-S002,Mumbai Andheri Store,Mumbai,W01,Metro
-S003,Bengaluru Koramangala Store,Bengaluru,W02,Metro
-S004,Chennai T Nagar Store,Chennai,W02,Tier-1
-S005,Delhi Connaught Place Store,Delhi,W03,Metro
+store_id,store_name,city,warehouse_id,store_type,state,region,opening_date,store_size_sqft,manager_name
+S001,Pune Central Store,Pune,W01,Tier-1,Maharashtra,West,01-06-2014,13031,Aman Gupta
+S002,Mumbai Andheri Store,Mumbai,W01,Metro,Maharashtra,West,01-05-2012,14717,Kavita Joshi
+S003,Bengaluru Koramangala Store,Bengaluru,W02,Metro,Karnataka,South,01-10-2014,19044,Rahul Verma
+S004,Chennai T Nagar Store,Chennai,W02,Tier-1,Tamil Nadu,South,01-04-2016,10994,Sonal Malhotra
+S005,Delhi Connaught Place Store,Delhi,W03,Metro,Delhi,North,01-12-2012,6571,Nikhil Bansal
+S006,Hyderabad Central Plaza,Hyderabad,W02,Metro,Telangana,South,01-03-2016,14278,Aman Gupta
+S007,Kolkata MG Road Store,Kolkata,W04,Tier-1,West Bengal,East,01-04-2015,13404,Kavita Joshi
+S008,Ahmedabad Mall Outlet,Ahmedabad,W05,Tier-2,Gujarat,West,01-12-2017,16876,Rahul Verma
+S009,Jaipur High Street Store,Jaipur,W01,Flagship,Rajasthan,North,01-08-2017,14299,Sonal Malhotra
+S010,Lucknow City Centre Store,Lucknow,W01,Mall Outlet,Uttar Pradesh,North,01-05-2017,8816,Nikhil Bansal
+S011,Surat Ring Road Store,Surat,W05,Metro,Gujarat,West,01-06-2016,17528,Divya Menon
+S012,Nagpur Station Road Store,Nagpur,W05,Tier-1,Maharashtra,West,01-02-2016,9457,Suresh Reddy
+S013,Indore Downtown Store,Indore,W07,Tier-2,Madhya Pradesh,Central,01-10-2020,8224,Pooja Chawla
+S014,Bhopal Central Plaza,Bhopal,W07,Flagship,Madhya Pradesh,Central,01-12-2015,16630,Aditya Bhatt
+S015,Patna MG Road Store,Patna,W04,Mall Outlet,Bihar,East,01-07-2019,8871,Ritu Saxena
+S016,Guwahati Mall Outlet,Guwahati,W06,Metro,Assam,North-East,01-05-2015,4606,Manish Tripathi
+S017,Chandigarh High Street Store,Chandigarh,W01,Tier-1,Punjab,North,01-04-2015,10308,Neha Kulkarni
+S018,Coimbatore City Centre Store,Coimbatore,W02,Tier-2,Tamil Nadu,South,01-12-2015,15037,Sanjay Dutt Rao
+S019,Kochi Ring Road Store,Kochi,W02,Flagship,Kerala,South,01-04-2017,6247,Anjali Nair
+S020,Nashik Station Road Store,Nashik,W05,Mall Outlet,Maharashtra,West,01-06-2017,10212,Vivek Choudhary
+S021,Visakhapatnam Downtown Store,Visakhapatnam,W02,Metro,Andhra Pradesh,South,01-05-2020,5383,Shalini Pandey
+S022,Ludhiana Central Plaza,Ludhiana,W01,Tier-1,Punjab,North,01-04-2015,13453,Deepak Agarwal
+S023,Vadodara MG Road Store,Vadodara,W05,Tier-2,Gujarat,West,01-12-2020,10397,Tanvi Shah
+S024,Ranchi Mall Outlet,Ranchi,W04,Flagship,Jharkhand,East,01-02-2017,8287,Harish Kumar
+S025,Raipur High Street Store,Raipur,W07,Mall Outlet,Chhattisgarh,Central,01-10-2020,6790,Preeti Singh
