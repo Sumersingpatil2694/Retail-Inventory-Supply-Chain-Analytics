@@ -1,0 +1,411 @@
+product_id,product_name,category,revenue,cumulative_pct,abc_class
+ELE-P0031,Bluetooth Speaker Classic,Electronics,78243290.66,4.23,A
+ELE-P0036,Air Conditioner Classic,Electronics,67561324.9,7.89,A
+ELE-P0040,Power Bank Classic,Electronics,58550207.31,11.06,A
+ELE-P0039,Smart Watch Classic,Electronics,58466075.53,14.22,A
+ELE-P0030,Water Purifier Classic,Electronics,54227203.78,17.16,A
+ELE-P0021,Air Conditioner Plus,Electronics,52671094.3,20.01,A
+FUR-P0037,Wardrobe Mini,Furniture,51116979.28,22.78,A
+ELE-P0023,Microwave Oven Plus,Electronics,47532871.52,25.35,A
+ELE-P0022,Room Cooler Plus,Electronics,45720741.85,27.82,A
+FUR-P0025,Dining Table Classic,Furniture,43973406.66,30.2,A
+ELE-P0028,Electric Kettle Plus,Electronics,40237347.68,32.38,A
+FUR-P0026,Bed Frame Classic,Furniture,37865493.67,34.43,A
+ELE-P0027,Home Theatre Plus,Electronics,37272122.75,36.45,A
+ELE-P0032,Wireless Earbuds Classic,Electronics,36797273.29,38.44,A
+ELE-P0026,Digital Camera Plus,Electronics,34905177.3,40.33,A
+FUR-P0038,Office Chair Mini,Furniture,34638848.97,42.2,A
+FUR-P0021,Wooden Chair Classic,Furniture,34499027.88,44.07,A
+ELE-P0025,Power Bank Plus,Electronics,34145538.18,45.92,A
+FUR-P0036,Bed Frame Mini,Furniture,33289417.09,47.72,A
+FUR-P0039,Coffee Table Mini,Furniture,29918361.0,49.34,A
+ELE-P0038,Microwave Oven Classic,Electronics,28841261.64,50.9,A
+FUR-P0024,Bookshelf Classic,Furniture,25119639.61,52.26,A
+FUR-P0035,Dining Table Mini,Furniture,21875095.71,53.44,A
+ELE-P0034,LED TV Classic,Electronics,21387782.56,54.6,A
+FUR-P0022,Study Table Classic,Furniture,20231990.15,55.7,A
+ELE-P0029,Ceiling Fan Plus,Electronics,18118336.71,56.68,A
+FUR-P0023,Sofa Set Classic,Furniture,17305745.39,57.61,A
+ELE-P0024,Smart Watch Plus,Electronics,16267161.18,58.49,A
+FUR-P0027,Wardrobe Classic,Furniture,16222112.6,59.37,A
+FUR-P0033,Sofa Set Mini,Furniture,15327191.7,60.2,A
+FUR-P0028,Office Chair Classic,Furniture,11060843.49,60.8,A
+ELE-P0035,Laptop Classic,Electronics,11010861.19,61.39,A
+SPO-P0034,Dumbbell Set Mini,Sports,10816192.85,61.98,A
+SPO-P0032,Cricket Bat Mini,Sports,10404012.49,62.54,A
+KIT-P0024,Mixer Grinder Classic,Kitchen,10162273.45,63.09,A
+FUR-P0030,TV Unit Mini,Furniture,9953706.19,63.63,A
+KIT-P0034,Mixer Grinder Mini,Kitchen,9697097.42,64.16,A
+SPO-P0030,Fitness Band Mini,Sports,9612930.26,64.68,A
+KIT-P0006,Storage Container Set,Kitchen,9376117.4,65.18,A
+SPO-P0016,Running Shoes Plus,Sports,9371228.16,65.69,A
+SPO-P0028,Cycling Helmet Classic,Sports,9037212.99,66.18,A
+SPO-P0014,Dumbbell Set Plus,Sports,8978440.28,66.67,A
+FUR-P0031,Wooden Chair Mini,Furniture,8805162.91,67.14,A
+HOM-P0026,Curtain Set Classic,Home Decor,8644610.15,67.61,A
+KIT-P0002,Pressure Cooker,Kitchen,8524035.47,68.07,A
+SPO-P0024,Dumbbell Set Classic,Sports,8520606.97,68.53,A
+FUR-P0040,TV Unit Deluxe,Furniture,8368667.51,68.99,A
+SPO-P0013,Football Plus,Sports,8287918.15,69.43,A
+SPO-P0012,Cricket Bat Plus,Sports,8064330.66,69.87,A
+HOM-P0003,Photo Frame Set,Home Decor,7933250.52,70.3,A
+SPO-P0002,Cricket Bat,Sports,7770854.22,70.72,A
+KIT-P0015,Dinner Set Plus,Kitchen,7606511.66,71.13,A
+ELE-P0033,Smartphone Classic,Electronics,7571647.59,71.54,A
+HOM-P0017,Scented Candle Pack Plus,Home Decor,6983819.24,71.92,A
+HOM-P0033,Photo Frame Set Mini,Home Decor,6753121.89,72.29,A
+SPO-P0017,Skipping Rope Plus,Sports,6558622.68,72.64,A
+SPO-P0008,Cycling Helmet,Sports,6497898.18,72.99,A
+FUR-P0034,Bookshelf Mini,Furniture,6463902.44,73.34,A
+KIT-P0029,Chopping Board Classic,Kitchen,6456247.29,73.69,A
+SPO-P0029,Gym Gloves Classic,Sports,6350309.19,74.04,A
+SPO-P0021,Yoga Mat Classic,Sports,5814346.76,74.35,A
+KIT-P0010,Tiffin Box,Kitchen,5679746.03,74.66,A
+HOM-P0019,Mirror Frame Plus,Home Decor,5573357.39,74.96,A
+SPO-P0006,Running Shoes,Sports,5547151.11,75.26,A
+KIT-P0023,Knife Set Classic,Kitchen,5487815.33,75.56,A
+KIT-P0014,Mixer Grinder Plus,Kitchen,5487695.34,75.85,A
+SPO-P0004,Dumbbell Set,Sports,5367586.82,76.14,A
+HOM-P0024,Wall Art Canvas Classic,Home Decor,5203621.06,76.43,A
+KIT-P0011,Non-Stick Pan Plus,Kitchen,5019517.75,76.7,A
+HOM-P0030,Fairy Lights Mini,Home Decor,4993384.09,76.97,A
+HOM-P0025,Decorative Vase Classic,Home Decor,4829143.27,77.23,A
+FUR-P0029,Coffee Table Classic,Furniture,4794869.3,77.49,A
+SPO-P0003,Football,Sports,4515129.33,77.73,A
+PET-P0032,Cat Litter Pack Mini,Pet Supplies,4494367.7,77.98,A
+FUR-P0032,Study Table Mini,Furniture,4434038.24,78.22,A
+SPO-P0011,Yoga Mat Plus,Sports,4360570.11,78.45,A
+KIT-P0009,Chopping Board,Kitchen,4355360.03,78.69,A
+SPO-P0015,Badminton Racket Plus,Sports,4350057.21,78.92,A
+SPO-P0025,Badminton Racket Classic,Sports,4315818.6,79.16,A
+KIT-P0001,Non-Stick Pan,Kitchen,4253524.18,79.39,A
+KIT-P0035,Dinner Set Mini,Kitchen,4189043.83,79.61,A
+KIT-P0020,Tiffin Box Classic,Kitchen,4080954.21,79.83,A
+PET-P0013,Pet Shampoo Plus,Pet Supplies,4062708.7600000002,80.05,B
+HOM-P0018,Rug Plus,Home Decor,4038101.43,80.27,B
+KIT-P0028,Blender Classic,Kitchen,4033459.03,80.49,B
+HOM-P0009,Mirror Frame,Home Decor,3902333.8,80.7,B
+SPO-P0007,Skipping Rope,Sports,3888410.03,80.91,B
+KIT-P0032,Pressure Cooker Mini,Kitchen,3849040.17,81.12,B
+SPO-P0023,Football Classic,Sports,3811849.9699999997,81.33,B
+KIT-P0005,Dinner Set,Kitchen,3652000.51,81.53,B
+KIT-P0022,Pressure Cooker Classic,Kitchen,3570128.36,81.72,B
+HOM-P0023,Photo Frame Set Classic,Home Decor,3557908.44,81.91,B
+PET-P0015,Pet Bed Plus,Pet Supplies,3514216.89,82.1,B
+SPO-P0009,Gym Gloves,Sports,3366550.05,82.28,B
+SPO-P0035,Badminton Racket Mini,Sports,3276540.29,82.46,B
+KIT-P0031,Non-Stick Pan Mini,Kitchen,3242013.4,82.64,B
+HOM-P0027,Scented Candle Pack Classic,Home Decor,3209740.25,82.81,B
+HOM-P0002,Table Lamp,Home Decor,3157253.84,82.98,B
+SPO-P0019,Gym Gloves Plus,Sports,3126565.61,83.15,B
+PET-P0024,Pet Leash Classic,Pet Supplies,3077338.57,83.32,B
+HOM-P0034,Wall Art Canvas Mini,Home Decor,2939402.3,83.48,B
+HOM-P0035,Decorative Vase Mini,Home Decor,2920547.15,83.63,B
+HOM-P0012,Table Lamp Plus,Home Decor,2910034.46,83.79,B
+BEA-P0027,Perfume Classic,Beauty,2863301.55,83.95,B
+HOM-P0001,Wall Clock,Home Decor,2850187.0300000003,84.1,B
+CLO-P0026,Sports Shorts Plus,Clothing,2841665.45,84.25,B
+HOM-P0010,Fairy Lights,Home Decor,2746283.21,84.4,B
+PET-P0008,Pet Grooming Kit,Pet Supplies,2740113.81,84.55,B
+HOM-P0020,Fairy Lights Classic,Home Decor,2637149.71,84.69,B
+PET-P0027,Fish Tank Filter Classic,Pet Supplies,2630323.0,84.84,B
+PET-P0005,Pet Bed,Pet Supplies,2536224.62,84.97,B
+SPO-P0001,Yoga Mat,Sports,2518776.13,85.11,B
+PET-P0014,Pet Leash Plus,Pet Supplies,2510421.94,85.25,B
+SPO-P0018,Cycling Helmet Plus,Sports,2505857.26,85.38,B
+KIT-P0030,Tiffin Box Mini,Kitchen,2484991.05,85.52,B
+CLO-P0038,Kurta Set Classic,Clothing,2401375.36,85.65,B
+PET-P0003,Pet Shampoo,Pet Supplies,2355726.41,85.77,B
+HOM-P0015,Decorative Vase Plus,Home Decor,2343797.6,85.9,B
+PET-P0002,Cat Litter Pack,Pet Supplies,2340546.16,86.03,B
+TOY-P0021,Toy Drone Classic,Toys,2308662.13,86.15,B
+PET-P0031,Dog Food 3kg Mini,Pet Supplies,2308341.86,86.28,B
+PET-P0029,Chew Toy Classic,Pet Supplies,2292557.66,86.4,B
+HOM-P0007,Scented Candle Pack,Home Decor,2272281.47,86.52,B
+CLO-P0021,Cargo Pants Plus,Clothing,2271473.37,86.65,B
+TOY-P0027,Remote Car Classic,Toys,2246377.55,86.77,B
+SPO-P0027,Skipping Rope Classic,Sports,2224821.66,86.89,B
+KIT-P0003,Knife Set,Kitchen,2219567.21,87.01,B
+TOY-P0022,Art Kit Classic,Toys,2215457.78,87.13,B
+PET-P0006,Bird Cage,Pet Supplies,2165807.27,87.25,B
+TOY-P0040,Doll House Deluxe,Toys,2147604.27,87.36,B
+SPO-P0033,Football Mini,Sports,2144106.84,87.48,B
+CLO-P0035,Hoodie Classic,Clothing,2134364.72,87.59,B
+PET-P0007,Fish Tank Filter,Pet Supplies,2104096.24,87.71,B
+HOM-P0013,Photo Frame Set Plus,Home Decor,2088784.15,87.82,B
+BEA-P0007,Perfume,Beauty,2069817.57,87.93,B
+PET-P0025,Pet Bed Classic,Pet Supplies,2037291.82,88.04,B
+BEA-P0021,Face Wash Classic,Beauty,2010588.52,88.15,B
+SPO-P0010,Fitness Band,Sports,1997592.1,88.26,B
+STA-P0007,Printer Paper Ream,Stationery,1972903.92,88.37,B
+TOY-P0023,Slime Kit Classic,Toys,1969517.77,88.47,B
+KIT-P0012,Pressure Cooker Plus,Kitchen,1964003.75,88.58,B
+TOY-P0033,Slime Kit Mini,Toys,1915753.24,88.68,B
+HOM-P0028,Rug Classic,Home Decor,1842602.42,88.78,B
+BEA-P0014,Hair Oil Plus,Beauty,1828594.67,88.88,B
+KIT-P0013,Knife Set Plus,Kitchen,1825440.1500000001,88.98,B
+GRO-P0012,Salt 1kg,Groceries,1819506.57,89.08,B
+SPO-P0031,Yoga Mat Mini,Sports,1806379.69,89.18,B
+PET-P0010,Pet Bowl Set,Pet Supplies,1800336.44,89.27,B
+PET-P0030,Pet Bowl Set Mini,Pet Supplies,1769355.07,89.37,B
+BEA-P0029,Talcum Powder Classic,Beauty,1767743.24,89.47,B
+GRO-P0001,Basmati Rice 5kg,Groceries,1735764.17,89.56,B
+PET-P0034,Pet Leash Mini,Pet Supplies,1697391.43,89.65,B
+TOY-P0038,Puzzle Set Mini,Toys,1691448.01,89.74,B
+PET-P0022,Cat Litter Pack Classic,Pet Supplies,1680321.92,89.83,B
+STA-P0031,Notebook Pack Mini,Stationery,1652554.3699999999,89.92,B
+PET-P0011,Dog Food 3kg Plus,Pet Supplies,1635315.32,90.01,B
+TOY-P0031,Toy Drone Mini,Toys,1612912.44,90.1,B
+SPO-P0020,Fitness Band Classic,Sports,1596877.46,90.19,B
+STA-P0029,Highlighter Set Classic,Stationery,1594140.26,90.27,B
+HOM-P0022,Table Lamp Classic,Home Decor,1590819.69,90.36,B
+TOY-P0029,Action Figure Classic,Toys,1563546.9000000001,90.44,B
+CLO-P0025,Woolen Sweater Plus,Clothing,1551512.53,90.53,B
+BEA-P0022,Sunscreen Lotion Classic,Beauty,1547156.27,90.61,B
+STA-P0001,Notebook Pack,Stationery,1525896.9,90.69,B
+BEA-P0028,Face Serum Classic,Beauty,1514790.86,90.77,B
+KIT-P0008,Blender,Kitchen,1503827.57,90.86,B
+SPO-P0026,Running Shoes Classic,Sports,1499397.55,90.94,B
+KIT-P0007,Steel Cookware Set,Kitchen,1494989.86,91.02,B
+PET-P0033,Pet Shampoo Mini,Pet Supplies,1478863.35,91.1,B
+CLO-P0027,Leather Belt Plus,Clothing,1473494.47,91.18,B
+CLO-P0029,Track Suit Plus,Clothing,1465721.61,91.26,B
+TOY-P0032,Art Kit Mini,Toys,1460405.65,91.34,B
+HOM-P0014,Wall Art Canvas Plus,Home Decor,1445238.04,91.41,B
+ELE-P0015,LED Strip Lights,Electronics,1426552.98,91.49,B
+BEA-P0025,Shampoo 500ml Classic,Beauty,1399979.98,91.57,B
+BEA-P0026,Moisturizer Cream Classic,Beauty,1384724.1,91.64,B
+KIT-P0018,Blender Plus,Kitchen,1346087.02,91.72,B
+CLO-P0024,Rain Jacket Plus,Clothing,1333527.14,91.79,B
+CLO-P0032,Denim Jeans Classic,Clothing,1305554.3,91.86,B
+CLO-P0008,Kids T-Shirt,Clothing,1258725.26,91.93,B
+HOM-P0006,Curtain Set,Home Decor,1251936.41,91.99,B
+CLO-P0036,Cargo Pants Classic,Clothing,1251715.9,92.06,B
+BEA-P0001,Face Wash,Beauty,1250198.1400000001,92.13,B
+BEA-P0020,Hair Dryer Classic,Beauty,1246550.94,92.2,B
+TOY-P0018,Slime Kit,Toys,1221158.7,92.26,B
+BEA-P0023,Lipstick Classic,Beauty,1215677.82,92.33,B
+GRO-P0038,Biscuit Pack Classic,Groceries,1213194.89,92.39,B
+CLO-P0031,Cotton T-Shirt Classic,Clothing,1199104.93,92.46,B
+TOY-P0039,Action Figure Mini,Toys,1195993.49,92.52,B
+CLO-P0022,Silk Saree Plus,Clothing,1190591.0,92.59,B
+STA-P0022,Ball Pen Set Classic,Stationery,1185783.77,92.65,B
+BEA-P0030,Hair Dryer Mini,Beauty,1182779.63,92.72,B
+CLO-P0005,Hoodie,Clothing,1182554.73,92.78,B
+ELE-P0011,Wireless Keyboard,Electronics,1176735.44,92.84,B
+KIT-P0017,Steel Cookware Set Plus,Kitchen,1175325.31,92.91,B
+PET-P0020,Pet Bowl Set Classic,Pet Supplies,1169751.73,92.97,B
+BEA-P0016,Moisturizer Cream Plus,Beauty,1165652.51,93.03,B
+TOY-P0035,Card Game Set Mini,Toys,1164930.74,93.1,B
+BEA-P0018,Face Serum Plus,Beauty,1160170.64,93.16,B
+CLO-P0033,Formal Shirt Classic,Clothing,1154205.27,93.22,B
+KIT-P0016,Storage Container Set Plus,Kitchen,1150251.75,93.28,B
+STA-P0002,Ball Pen Set,Stationery,1120892.73,93.35,B
+HOM-P0004,Wall Art Canvas,Home Decor,1119343.28,93.41,B
+CLO-P0018,Cargo Pants,Clothing,1114290.0,93.47,B
+CLO-P0019,Polo T-Shirt,Clothing,1103661.9,93.53,B
+GRO-P0031,Basmati Rice 5kg Classic,Groceries,1100435.57,93.59,B
+GRO-P0018,Pickle 300g,Groceries,1094158.62,93.64,B
+CLO-P0007,Winter Jacket,Clothing,1092186.82,93.7,B
+ELE-P0019,Screen Protector,Electronics,1091007.1500000001,93.76,B
+GRO-P0015,Ketchup 500ml,Groceries,1090068.08,93.82,B
+TOY-P0036,Building Blocks Mini,Toys,1089869.33,93.88,B
+BEA-P0008,Face Serum,Beauty,1088691.53,93.94,B
+STA-P0011,Notebook Pack Plus,Stationery,1083531.76,94.0,B
+GRO-P0028,Coffee Powder 200g Plus,Groceries,1063161.64,94.06,B
+FUR-P0006,TV Stand,Furniture,1062408.18,94.11,B
+PET-P0004,Pet Leash,Pet Supplies,1060766.33,94.17,B
+BEA-P0004,Hair Oil,Beauty,1060495.79,94.23,B
+CLO-P0034,Summer Dress Classic,Clothing,1039797.14,94.28,B
+BEA-P0015,Shampoo 500ml Plus,Beauty,1037929.54,94.34,B
+BEA-P0013,Lipstick Plus,Beauty,1035582.91,94.4,B
+GRO-P0024,Pulses 1kg Plus,Groceries,1034998.49,94.45,B
+ELE-P0008,Smart Watch Band,Electronics,1034978.88,94.51,B
+FUR-P0020,Cushion Stool,Furniture,1026493.41,94.56,B
+ELE-P0017,Bluetooth Adapter,Electronics,1020396.22,94.62,B
+PET-P0019,Chew Toy Plus,Pet Supplies,1014761.34,94.67,B
+STA-P0028,File Folder Pack Classic,Stationery,1011363.29,94.73,B
+STA-P0034,School Bag Mini,Stationery,1005874.73,94.78,B
+ELE-P0007,HDMI Cable,Electronics,988779.11,94.84,B
+CLO-P0039,Rain Jacket Classic,Clothing,988280.92,94.89,B
+GRO-P0019,Milk Powder 500g,Groceries,984431.68,94.94,B
+HOM-P0008,Rug,Home Decor,983935.28,95.0,B
+GRO-P0002,Sunflower Oil 1L,Groceries,983316.8,95.05,C
+PET-P0023,Pet Shampoo Classic,Pet Supplies,982719.01,95.1,C
+STA-P0015,Colour Pencils Plus,Stationery,977422.77,95.16,C
+TOY-P0001,Building Blocks Set,Toys,964830.81,95.21,C
+TOY-P0020,Card Game Set,Toys,961164.45,95.26,C
+STA-P0017,Printer Paper Ream Plus,Stationery,955116.45,95.31,C
+CLO-P0028,Winter Jacket Plus,Clothing,948982.9,95.36,C
+GRO-P0004,Green Tea Pack,Groceries,928983.6,95.41,C
+TOY-P0030,Doll House Mini,Toys,923118.55,95.46,C
+GRO-P0027,Bottled Water 1L Plus,Groceries,915788.1,95.51,C
+BEA-P0003,Lipstick,Beauty,905531.04,95.56,C
+STA-P0005,Colour Pencils,Stationery,905288.14,95.61,C
+KIT-P0025,Dinner Set Classic,Kitchen,905025.92,95.66,C
+TOY-P0025,Card Game Set Classic,Toys,878890.48,95.71,C
+BEA-P0011,Face Wash Plus,Beauty,868480.09,95.76,C
+STA-P0021,Notebook Pack Classic,Stationery,863928.26,95.8,C
+GRO-P0011,Cornflakes 500g,Groceries,859813.01,95.85,C
+BEA-P0034,Hair Oil Mini,Beauty,846940.69,95.89,C
+PET-P0018,Pet Grooming Kit Plus,Pet Supplies,843954.48,95.94,C
+HOM-P0005,Decorative Vase,Home Decor,836871.52,95.99,C
+GRO-P0023,Biscuit Pack Plus,Groceries,836338.57,96.03,C
+FUR-P0013,Ottoman Stool,Furniture,835067.88,96.08,C
+STA-P0008,File Folder Pack,Stationery,834384.9,96.12,C
+ELE-P0014,Portable Fan,Electronics,825744.36,96.17,C
+STA-P0019,Highlighter Set Plus,Stationery,824358.24,96.21,C
+BEA-P0019,Talcum Powder Plus,Beauty,823270.09,96.25,C
+CLO-P0030,Ethnic Kurti Classic,Clothing,821575.94,96.3,C
+STA-P0032,Ball Pen Set Mini,Stationery,814944.16,96.34,C
+CLO-P0037,Silk Saree Classic,Clothing,814704.25,96.39,C
+STA-P0013,Geometry Box Plus,Stationery,802222.3200000001,96.43,C
+STA-P0030,Calculator Mini,Stationery,793989.75,96.47,C
+GRO-P0025,Salt 1kg Plus,Groceries,782810.8,96.52,C
+BEA-P0005,Shampoo 500ml,Beauty,778959.28,96.56,C
+PET-P0009,Chew Toy,Pet Supplies,765833.17,96.6,C
+TOY-P0012,Bicycle Kids,Toys,765007.75,96.64,C
+PET-P0012,Cat Litter Pack Plus,Pet Supplies,764611.68,96.68,C
+STA-P0016,Sketch Pen Set Plus,Stationery,763992.5,96.72,C
+KIT-P0026,Storage Container Set Classic,Kitchen,762744.33,96.77,C
+BEA-P0010,Hair Dryer,Beauty,752375.43,96.81,C
+PET-P0017,Fish Tank Filter Plus,Pet Supplies,742434.34,96.85,C
+CLO-P0016,Ethnic Saree,Clothing,741041.82,96.89,C
+STA-P0003,Geometry Box,Stationery,731663.71,96.93,C
+BEA-P0017,Perfume Plus,Beauty,726112.61,96.97,C
+HOM-P0029,Mirror Frame Classic,Home Decor,723479.02,97.0,C
+FUR-P0017,Kids Study Desk,Furniture,723443.97,97.04,C
+ELE-P0016,Extension Board,Electronics,713814.94,97.08,C
+BEA-P0009,Talcum Powder,Beauty,709937.26,97.12,C
+STA-P0004,School Bag,Stationery,699889.78,97.16,C
+GRO-P0036,Cold Drink 2L Classic,Groceries,699125.87,97.2,C
+ELE-P0037,Room Cooler Classic,Electronics,695589.17,97.23,C
+STA-P0018,File Folder Pack Plus,Stationery,692316.28,97.27,C
+FUR-P0008,Coat Rack,Furniture,689553.52,97.31,C
+TOY-P0026,Building Blocks Classic,Toys,681486.74,97.35,C
+GRO-P0005,Organic Honey 500g,Groceries,671877.88,97.38,C
+CLO-P0003,Formal Shirt,Clothing,667746.2,97.42,C
+HOM-P0016,Curtain Set Plus,Home Decor,666918.19,97.45,C
+GRO-P0006,Masala Mix 200g,Groceries,666704.26,97.49,C
+CLO-P0001,Cotton T-Shirt,Clothing,664134.96,97.53,C
+GRO-P0033,Wheat Flour 5kg Classic,Groceries,658687.61,97.56,C
+PET-P0016,Bird Cage Plus,Pet Supplies,656129.58,97.6,C
+TOY-P0006,Board Game,Toys,644649.47,97.63,C
+CLO-P0012,Woolen Sweater,Clothing,643560.86,97.67,C
+TOY-P0004,Action Figure,Toys,643024.32,97.7,C
+HOM-P0021,Wall Clock Classic,Home Decor,637769.55,97.74,C
+KIT-P0004,Mixer Grinder,Kitchen,635733.51,97.77,C
+BEA-P0035,Shampoo 500ml Mini,Beauty,634581.1,97.81,C
+CLO-P0011,Sports Jersey,Clothing,633990.88,97.84,C
+HOM-P0011,Wall Clock Plus,Home Decor,618197.82,97.87,C
+BEA-P0002,Sunscreen Lotion,Beauty,618194.91,97.91,C
+PET-P0021,Dog Food 3kg Classic,Pet Supplies,607004.6,97.94,C
+CLO-P0014,Formal Trousers,Clothing,605207.45,97.97,C
+ELE-P0003,USB-C Charger,Electronics,603552.19,98.0,C
+BEA-P0012,Sunscreen Lotion Plus,Beauty,597856.36,98.04,C
+KIT-P0033,Knife Set Mini,Kitchen,597075.37,98.07,C
+TOY-P0008,Water Gun,Toys,595986.19,98.1,C
+FUR-P0011,Dining Chair,Furniture,593395.57,98.13,C
+CLO-P0004,Summer Dress,Clothing,593319.8200000001,98.17,C
+GRO-P0008,Brown Bread,Groceries,592064.13,98.2,C
+STA-P0024,School Bag Classic,Stationery,591814.25,98.23,C
+GRO-P0037,Instant Noodles Pack Classic,Groceries,589818.37,98.26,C
+FUR-P0016,Bar Stool,Furniture,589305.05,98.29,C
+PET-P0001,Dog Food 3kg,Pet Supplies,583515.07,98.33,C
+HOM-P0031,Wall Clock Mini,Home Decor,583458.25,98.36,C
+TOY-P0019,Toy Robot,Toys,578348.64,98.39,C
+ELE-P0001,Wireless Mouse,Electronics,576862.5,98.42,C
+KIT-P0027,Steel Cookware Set Classic,Kitchen,562320.65,98.45,C
+SPO-P0022,Cricket Bat Classic,Sports,560655.34,98.48,C
+BEA-P0033,Lipstick Mini,Beauty,556018.57,98.51,C
+KIT-P0019,Chopping Board Plus,Kitchen,552106.64,98.54,C
+STA-P0006,Sketch Pen Set,Stationery,543734.59,98.57,C
+FUR-P0001,Study Table,Furniture,539333.22,98.6,C
+GRO-P0040,Salt 1kg Classic,Groceries,529214.77,98.63,C
+STA-P0020,Calculator Classic,Stationery,526602.31,98.66,C
+STA-P0009,Highlighter Set,Stationery,523672.16,98.68,C
+FUR-P0010,Bean Bag,Furniture,508890.09,98.71,C
+GRO-P0039,Pulses 1kg Classic,Groceries,508735.53,98.74,C
+ELE-P0018,Memory Card 64GB,Electronics,508568.91000000003,98.77,C
+GRO-P0030,Snack Combo Pack Classic,Groceries,507971.71,98.79,C
+CLO-P0013,Rain Jacket,Clothing,507117.32,98.82,C
+TOY-P0002,Remote Control Car,Toys,506696.69,98.85,C
+HOM-P0032,Table Lamp Mini,Home Decor,500165.75,98.88,C
+TOY-P0034,Toy Robot Mini,Toys,494503.18,98.9,C
+FUR-P0018,Recliner Chair,Furniture,492666.37,98.93,C
+GRO-P0014,Pasta 500g,Groceries,492455.6,98.96,C
+PET-P0026,Bird Cage Classic,Pet Supplies,490731.91,98.98,C
+CLO-P0015,Night Suit,Clothing,487934.98,99.01,C
+GRO-P0007,Almonds 500g,Groceries,484652.68,99.04,C
+ELE-P0006,Wireless Earbuds,Electronics,461272.2,99.06,C
+PET-P0035,Pet Bed Mini,Pet Supplies,456159.43,99.09,C
+SPO-P0005,Badminton Racket,Sports,454152.74,99.11,C
+CLO-P0006,Track Pants,Clothing,431707.76,99.13,C
+CLO-P0040,Woolen Sweater Classic,Clothing,411548.06,99.16,C
+ELE-P0005,Power Bank 10000mAh,Electronics,401140.74,99.18,C
+TOY-P0013,Skateboard Kids,Toys,388525.93,99.2,C
+CLO-P0023,Kurta Set Plus,Clothing,383282.4,99.22,C
+BEA-P0032,Sunscreen Lotion Mini,Beauty,372155.5,99.24,C
+STA-P0033,Geometry Box Mini,Stationery,368457.75,99.26,C
+TOY-P0007,Toy Train Set,Toys,367228.0,99.28,C
+STA-P0023,Geometry Box Classic,Stationery,364637.75,99.3,C
+TOY-P0024,Toy Robot Classic,Toys,352434.05,99.32,C
+STA-P0035,Colour Pencils Mini,Stationery,336148.14,99.34,C
+GRO-P0003,Wheat Flour 5kg,Groceries,332749.07,99.35,C
+CLO-P0010,Kurta Set,Clothing,330509.93,99.37,C
+ELE-P0020,Car Charger,Electronics,325020.27,99.39,C
+GRO-P0029,Fruit Juice 1L Plus,Groceries,323792.58,99.41,C
+ELE-P0012,Phone Stand,Electronics,318910.33999999997,99.42,C
+STA-P0012,Ball Pen Set Plus,Stationery,305587.88,99.44,C
+STA-P0027,Printer Paper Ream Classic,Stationery,298284.31,99.46,C
+GRO-P0009,Coffee Powder 250g,Groceries,298240.33,99.47,C
+GRO-P0034,Sugar 1kg Classic,Groceries,292405.44,99.49,C
+FUR-P0009,Wall Shelf Set,Furniture,291395.02999999997,99.5,C
+GRO-P0026,Ice Cream Tub Plus,Groceries,291123.29,99.52,C
+STA-P0026,Sketch Pen Set Classic,Stationery,285966.48,99.54,C
+CLO-P0002,Denim Jeans,Clothing,285041.73,99.55,C
+TOY-P0005,Soft Plush Toy,Toys,278585.95,99.57,C
+FUR-P0004,Bedside Table,Furniture,278494.57,99.58,C
+STA-P0014,School Bag Plus,Stationery,270870.02,99.6,C
+ELE-P0002,Bluetooth Speaker,Electronics,266376.35,99.61,C
+TOY-P0009,Building Blocks Mini,Toys,258316.72,99.62,C
+TOY-P0037,Remote Car Mini,Toys,255394.52,99.64,C
+STA-P0010,Calculator,Stationery,245818.16999999998,99.65,C
+TOY-P0028,Puzzle Set Classic,Toys,235337.93,99.66,C
+BEA-P0006,Moisturizer Cream,Beauty,234253.85,99.68,C
+ELE-P0004,LED Desk Lamp,Electronics,232334.41999999998,99.69,C
+ELE-P0010,Webcam HD,Electronics,232093.0,99.7,C
+FUR-P0003,Bookshelf 5-Tier,Furniture,227231.54,99.71,C
+TOY-P0003,Puzzle 500pc,Toys,223304.46,99.73,C
+TOY-P0017,Art Kit,Toys,222909.9,99.74,C
+CLO-P0009,Casual Shorts,Clothing,216436.57,99.75,C
+FUR-P0007,Shoe Rack,Furniture,214379.89,99.76,C
+PET-P0028,Pet Grooming Kit Classic,Pet Supplies,200448.78,99.77,C
+FUR-P0014,Laptop Table,Furniture,194589.88,99.78,C
+TOY-P0011,Toy Kitchen Set,Toys,190117.14,99.79,C
+TOY-P0010,Dollhouse,Toys,189989.77,99.8,C
+GRO-P0022,Instant Noodles Pack Plus,Groceries,188336.79,99.81,C
+TOY-P0016,Toy Drone,Toys,183608.66,99.82,C
+GRO-P0017,Jaggery 500g,Groceries,183418.61,99.83,C
+BEA-P0031,Face Wash Mini,Beauty,177912.15,99.84,C
+STA-P0025,Colour Pencils Classic,Stationery,176291.92,99.85,C
+TOY-P0014,Rubik Cube,Toys,174691.98,99.86,C
+FUR-P0012,Storage Cabinet,Furniture,168395.74,99.87,C
+FUR-P0005,Folding Chair,Furniture,160829.85,99.88,C
+FUR-P0019,Console Table,Furniture,160373.98,99.89,C
+ELE-P0013,Laptop Sleeve,Electronics,158594.58,99.9,C
+GRO-P0010,Peanut Butter 400g,Groceries,154937.63,99.91,C
+CLO-P0020,Maxi Dress,Clothing,154762.96,99.91,C
+GRO-P0020,Instant Noodles Pack,Groceries,154724.01,99.92,C
+GRO-P0016,Biscuits Pack,Groceries,153349.87,99.93,C
+KIT-P0021,Non-Stick Pan Classic,Kitchen,151700.72,99.94,C
+TOY-P0015,Kite Set,Toys,149445.12,99.95,C
+FUR-P0002,Office Chair,Furniture,149204.64,99.96,C
+ELE-P0009,USB Hub,Electronics,128894.31,99.96,C
+GRO-P0035,Tea Leaves 250g Classic,Groceries,124053.25,99.97,C
+GRO-P0032,Cooking Oil 1L Classic,Groceries,121063.38,99.98,C
+GRO-P0021,Cold Drink 2L Plus,Groceries,120418.59,99.98,C
+CLO-P0017,Denim Jacket,Clothing,112844.23,99.99,C
+GRO-P0013,Sugar 1kg,Groceries,77709.28,99.99,C
+FUR-P0015,Wardrobe 2-Door,Furniture,76805.7,100.0,C
+BEA-P0024,Hair Oil Classic,Beauty,61425.1,100.0,C

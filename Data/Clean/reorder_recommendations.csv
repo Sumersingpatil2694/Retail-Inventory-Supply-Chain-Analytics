@@ -1,0 +1,584 @@
+store_name,product_name,category,inventory_level,reorder_point,gap_to_reorder_point,urgency,recommendation
+Chennai T Nagar Store,Brown Bread,Groceries,0.0,88,88.0,🟡 Medium — Reorder Now,Reorder immediately
+Delhi Connaught Place Store,Scented Candle Pack Plus,Home Decor,0.0,85,85.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Hair Dryer,Beauty,9.0,75,66.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Mirror Frame Classic,Home Decor,0.0,65,65.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Building Blocks Mini,Toys,4.0,65,61.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Shampoo 500ml Classic,Beauty,0.0,61,61.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Kurta Set Classic,Clothing,0.0,60,60.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Kurta Set Classic,Clothing,0.0,60,60.0,🟡 Medium — Reorder Now,Reorder immediately
+Surat Ring Road Store,Bicycle Kids,Toys,12.0,69,57.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Sugar 1kg Classic,Groceries,26.0,83,57.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Sunscreen Lotion Classic,Beauty,13.0,70,57.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Shampoo 500ml,Beauty,24.0,81,57.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Fitness Band,Sports,21.0,77,56.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,LED Strip Lights,Electronics,0.0,53,53.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Geometry Box Mini,Stationery,0.0,52,52.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Storage Container Set Plus,Kitchen,0.0,52,52.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Perfume Plus,Beauty,1.0,53,52.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Slime Kit Mini,Toys,17.0,68,51.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Brown Bread,Groceries,38.0,88,50.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Coffee Table Classic,Furniture,5.0,55,50.0,🟡 Medium — Reorder Now,Reorder immediately
+Coimbatore City Centre Store,Toy Drone Classic,Toys,7.0,57,50.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Pressure Cooker Plus,Kitchen,0.0,50,50.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Hair Oil,Beauty,39.0,88,49.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Smart Watch Plus,Electronics,0.0,48,48.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Toy Robot Mini,Toys,22.0,70,48.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Mixer Grinder Classic,Kitchen,5.0,53,48.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Wireless Keyboard,Electronics,0.0,47,47.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Fitness Band Classic,Sports,0.0,47,47.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Office Chair Classic,Furniture,0.0,47,47.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,HDMI Cable,Electronics,21.0,67,46.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Wardrobe Mini,Furniture,0.0,46,46.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Basmati Rice 5kg Classic,Groceries,0.0,46,46.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Room Cooler Classic,Electronics,5.0,49,44.0,🟡 Medium — Reorder Now,Reorder immediately
+Bengaluru Koramangala Store,Sketch Pen Set Classic,Stationery,0.0,44,44.0,🟡 Medium — Reorder Now,Reorder immediately
+Surat Ring Road Store,Bluetooth Adapter,Electronics,0.0,44,44.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Sketch Pen Set Classic,Stationery,0.0,44,44.0,🟡 Medium — Reorder Now,Reorder immediately
+Vadodara MG Road Store,Decorative Vase Plus,Home Decor,0.0,43,43.0,🟡 Medium — Reorder Now,Reorder immediately
+Ludhiana Central Plaza,Steel Cookware Set Classic,Kitchen,0.0,43,43.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Fitness Band Classic,Sports,4.0,47,43.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Hair Oil Plus,Beauty,0.0,42,42.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Cotton T-Shirt Classic,Clothing,51.0,93,42.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Board Game,Toys,35.0,77,42.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Formal Trousers,Clothing,32.0,73,41.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Chew Toy Classic,Pet Supplies,9.0,50,41.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,TV Stand,Furniture,0.0,41,41.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Football,Sports,0.0,41,41.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Cat Litter Pack,Pet Supplies,40.0,81,41.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Microwave Oven Plus,Electronics,0.0,41,41.0,🟡 Medium — Reorder Now,Reorder immediately
+Visakhapatnam Downtown Store,Puzzle Set Mini,Toys,33.0,74,41.0,🟡 Medium — Reorder Now,Reorder immediately
+Raipur High Street Store,Extension Board,Electronics,35.0,75,40.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Notebook Pack,Stationery,0.0,40,40.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Notebook Pack Mini,Stationery,0.0,40,40.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Sketch Pen Set Classic,Stationery,4.0,44,40.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Fairy Lights Mini,Home Decor,58.0,98,40.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Photo Frame Set Classic,Home Decor,0.0,39,39.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Pet Bed Plus,Pet Supplies,24.0,63,39.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Mirror Frame Classic,Home Decor,26.0,65,39.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Ice Cream Tub Plus,Groceries,0.0,39,39.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Sports Shorts Plus,Clothing,36.0,74,38.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Wall Shelf Set,Furniture,25.0,63,38.0,🟡 Medium — Reorder Now,Reorder immediately
+Coimbatore City Centre Store,Fitness Band Mini,Sports,0.0,38,38.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Sketch Pen Set,Stationery,21.0,59,38.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Cooking Oil 1L Classic,Groceries,0.0,38,38.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,HDMI Cable,Electronics,29.0,67,38.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Steel Cookware Set Plus,Kitchen,23.0,60,37.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Bed Frame Classic,Furniture,35.0,72,37.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Lipstick Classic,Beauty,36.0,73,37.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Knife Set Plus,Kitchen,55.0,91,36.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Rain Jacket Classic,Clothing,6.0,42,36.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Badminton Racket Plus,Sports,8.0,44,36.0,🟡 Medium — Reorder Now,Reorder immediately
+Indore Downtown Store,Toy Drone Classic,Toys,21.0,57,36.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Wireless Keyboard,Electronics,11.0,47,36.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Pet Shampoo,Pet Supplies,26.0,61,35.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Face Wash Classic,Beauty,14.0,49,35.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Remote Control Car,Toys,31.0,66,35.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Pet Shampoo Mini,Pet Supplies,22.0,57,35.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Toy Drone Mini,Toys,0.0,34,34.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Hair Dryer Classic,Beauty,56.0,90,34.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Toy Drone Mini,Toys,0.0,34,34.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Dinner Set Classic,Kitchen,61.0,95,34.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Gym Gloves Classic,Sports,0.0,33,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Formal Shirt Classic,Clothing,20.0,53,33.0,🟡 Medium — Reorder Now,Reorder immediately
+Patna MG Road Store,File Folder Pack Classic,Stationery,0.0,33,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Yoga Mat Classic,Sports,30.0,63,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Bookshelf Mini,Furniture,0.0,33,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Lipstick Mini,Beauty,66.0,99,33.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Photo Frame Set Classic,Home Decor,6.0,39,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Notebook Pack Plus,Stationery,0.0,33,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Gym Gloves Plus,Sports,0.0,33,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Cricket Bat Mini,Sports,46.0,79,33.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Wall Art Canvas Plus,Home Decor,29.0,62,33.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Electric Kettle Plus,Electronics,0.0,32,32.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Ethnic Saree,Clothing,48.0,80,32.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Pressure Cooker Classic,Kitchen,0.0,32,32.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Masala Mix 200g,Groceries,16.0,48,32.0,🟡 Medium — Reorder Now,Reorder immediately
+Patna MG Road Store,Biscuits Pack,Groceries,54.0,86,32.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Pulses 1kg Plus,Groceries,43.0,75,32.0,🟢 Low — Standard Reorder,Reorder immediately
+Ranchi Mall Outlet,Chopping Board Classic,Kitchen,57.0,89,32.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Sunscreen Lotion,Beauty,59.0,91,32.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Dog Food 3kg Plus,Pet Supplies,21.0,53,32.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Cold Drink 2L Classic,Groceries,49.0,81,32.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Dinner Set Classic,Kitchen,63.0,95,32.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Console Table,Furniture,17.0,48,31.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Hair Dryer Classic,Beauty,59.0,90,31.0,🟢 Low — Standard Reorder,Reorder immediately
+Nashik Station Road Store,Sketch Pen Set Plus,Stationery,44.0,75,31.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Silk Saree Classic,Clothing,0.0,31,31.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Digital Camera Plus,Electronics,6.0,37,31.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Jaggery 500g,Groceries,40.0,71,31.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Memory Card 64GB,Electronics,19.0,50,31.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Action Figure Mini,Toys,20.0,50,30.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Bar Stool,Furniture,28.0,58,30.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Puzzle Set Classic,Toys,58.0,88,30.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Bird Cage Classic,Pet Supplies,0.0,30,30.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Face Wash Classic,Beauty,19.0,49,30.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Hair Oil Classic,Beauty,49.0,79,30.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Water Gun,Toys,51.0,81,30.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Wooden Chair Mini,Furniture,37.0,67,30.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Fitness Band,Sports,48.0,77,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Slime Kit Classic,Toys,48.0,77,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Wall Shelf Set,Furniture,34.0,63,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Decorative Vase Plus,Home Decor,14.0,43,29.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Hair Dryer Classic,Beauty,61.0,90,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Pet Bed Mini,Pet Supplies,3.0,32,29.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Action Figure,Toys,32.0,61,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Ketchup 500ml,Groceries,44.0,73,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Bar Stool,Furniture,29.0,58,29.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Tiffin Box,Kitchen,28.0,57,29.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Study Table,Furniture,41.0,69,28.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Lipstick Plus,Beauty,4.0,32,28.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Kurta Set,Clothing,14.0,42,28.0,🟡 Medium — Reorder Now,Reorder immediately
+Raipur High Street Store,Denim Jeans Classic,Clothing,50.0,78,28.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Coffee Table Mini,Furniture,60.0,88,28.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Wardrobe Mini,Furniture,18.0,46,28.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Sunflower Oil 1L,Groceries,27.0,55,28.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Silk Saree Plus,Clothing,29.0,57,28.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Winter Jacket Plus,Clothing,19.0,46,27.0,🟡 Medium — Reorder Now,Reorder immediately
+Guwahati Mall Outlet,Non-Stick Pan,Kitchen,5.0,32,27.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Slime Kit,Toys,15.0,42,27.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Bird Cage Classic,Pet Supplies,3.0,30,27.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Hoodie,Clothing,45.0,72,27.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Perfume Classic,Beauty,66.0,93,27.0,🟢 Low — Standard Reorder,Reorder immediately
+Pune Central Store,Art Kit Mini,Toys,64.0,91,27.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Football Plus,Sports,70.0,96,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Running Shoes Classic,Sports,42.0,68,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Decorative Vase Classic,Home Decor,49.0,75,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Hair Oil Mini,Beauty,48.0,74,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Badminton Racket Mini,Sports,29.0,55,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Bookshelf Mini,Furniture,7.0,33,26.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Photo Frame Set Plus,Home Decor,62.0,88,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Talcum Powder Classic,Beauty,20.0,46,26.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Pulses 1kg Plus,Groceries,49.0,75,26.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Water Purifier Classic,Electronics,22.0,47,25.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Power Bank Plus,Electronics,42.0,67,25.0,🟢 Low — Standard Reorder,Reorder immediately
+Patna MG Road Store,Mixer Grinder Plus,Kitchen,71.0,96,25.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Ottoman Stool,Furniture,29.0,54,25.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Hair Oil Mini,Beauty,49.0,74,25.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Sketch Pen Set,Stationery,34.0,59,25.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Office Chair Mini,Furniture,59.0,84,25.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Organic Honey 500g,Groceries,22.0,46,24.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Curtain Set Classic,Home Decor,73.0,97,24.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Remote Car Classic,Toys,14.0,38,24.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Hair Oil Classic,Beauty,55.0,79,24.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Bluetooth Speaker Classic,Electronics,12.0,36,24.0,🟡 Medium — Reorder Now,Reorder immediately
+Jaipur High Street Store,TV Unit Deluxe,Furniture,50.0,74,24.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Cold Drink 2L Plus,Groceries,41.0,65,24.0,🟢 Low — Standard Reorder,Reorder immediately
+Chandigarh High Street Store,Pressure Cooker Plus,Kitchen,26.0,50,24.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Talcum Powder Classic,Beauty,23.0,46,23.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Console Table,Furniture,25.0,48,23.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Fitness Band Classic,Sports,24.0,47,23.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Biscuit Pack Classic,Groceries,15.0,38,23.0,🟡 Medium — Reorder Now,Reorder immediately
+Visakhapatnam Downtown Store,Badminton Racket Classic,Sports,35.0,58,23.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Pet Bed,Pet Supplies,18.0,41,23.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Shoe Rack,Furniture,57.0,79,22.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Dinner Set Plus,Kitchen,65.0,87,22.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Dumbbell Set Mini,Sports,70.0,92,22.0,🟢 Low — Standard Reorder,Reorder immediately
+Nagpur Station Road Store,Memory Card 64GB,Electronics,28.0,50,22.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Instant Noodles Pack Classic,Groceries,8.0,30,22.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Notebook Pack Plus,Stationery,11.0,33,22.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Denim Jeans Classic,Clothing,56.0,78,22.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Pet Grooming Kit,Pet Supplies,76.0,98,22.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Steel Cookware Set Classic,Kitchen,21.0,43,22.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Card Game Set Mini,Toys,38.0,60,22.0,🟢 Low — Standard Reorder,Reorder immediately
+Visakhapatnam Downtown Store,Rug Classic,Home Decor,76.0,98,22.0,🟢 Low — Standard Reorder,Reorder immediately
+Nashik Station Road Store,Card Game Set,Toys,59.0,80,21.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Skipping Rope Classic,Sports,40.0,61,21.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Calculator Mini,Stationery,17.0,38,21.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Notebook Pack Mini,Stationery,19.0,40,21.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Woolen Sweater,Clothing,37.0,58,21.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Sunscreen Lotion Classic,Beauty,49.0,70,21.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Home Theatre Plus,Electronics,52.0,73,21.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Action Figure,Toys,41.0,61,20.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Table Lamp,Home Decor,40.0,60,20.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Dumbbell Set Plus,Sports,73.0,93,20.0,🟢 Low — Standard Reorder,Reorder immediately
+Guwahati Mall Outlet,Doll House Mini,Toys,61.0,81,20.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Toy Robot Classic,Toys,26.0,46,20.0,🟢 Low — Standard Reorder,Reorder immediately
+Visakhapatnam Downtown Store,Football Plus,Sports,76.0,96,20.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Pet Bed Plus,Pet Supplies,43.0,63,20.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Steel Cookware Set Plus,Kitchen,41.0,60,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Perfume Plus,Beauty,34.0,53,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Dining Table Mini,Furniture,11.0,30,19.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Biscuit Pack Plus,Groceries,43.0,62,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Photo Frame Set Plus,Home Decor,69.0,88,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Storage Cabinet,Furniture,48.0,67,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Pet Grooming Kit Plus,Pet Supplies,41.0,60,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Hair Oil Plus,Beauty,23.0,42,19.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Screen Protector,Electronics,30.0,48,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Bookshelf Mini,Furniture,15.0,33,18.0,🔴 Critical — Expedite + Emergency Stock,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Calculator,Stationery,69.0,87,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Webcam HD,Electronics,45.0,63,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Mirror Frame,Home Decor,65.0,83,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Football,Sports,23.0,41,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Ethnic Kurti Classic,Clothing,68.0,86,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Face Serum Classic,Beauty,19.0,37,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Calculator Classic,Stationery,46.0,64,18.0,🟢 Low — Standard Reorder,Reorder immediately
+Ranchi Mall Outlet,Sofa Set Classic,Furniture,23.0,41,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Coffee Table Classic,Furniture,37.0,55,18.0,🟢 Low — Standard Reorder,Reorder immediately
+Chandigarh High Street Store,Coffee Powder 250g,Groceries,22.0,40,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Sketch Pen Set Plus,Stationery,57.0,75,18.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Formal Shirt Classic,Clothing,36.0,53,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Remote Car Classic,Toys,21.0,38,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Dumbbell Set Classic,Sports,66.0,83,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Air Conditioner Classic,Electronics,34.0,51,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Water Purifier Classic,Electronics,30.0,47,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Perfume Plus,Beauty,36.0,53,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Toy Kitchen Set,Toys,25.0,42,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Electric Kettle Plus,Electronics,15.0,32,17.0,🟡 Medium — Reorder Now,Reorder immediately
+Jaipur High Street Store,Console Table,Furniture,31.0,48,17.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Perfume Classic,Beauty,77.0,93,16.0,🟢 Low — Standard Reorder,Reorder immediately
+Ranchi Mall Outlet,Dinner Set,Kitchen,83.0,99,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Bookshelf 5-Tier,Furniture,40.0,56,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Hoodie Classic,Clothing,65.0,81,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,TV Stand,Furniture,25.0,41,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Pet Bed Classic,Pet Supplies,35.0,51,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Blender Classic,Kitchen,62.0,78,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Sunflower Oil 1L,Groceries,39.0,55,16.0,🟢 Low — Standard Reorder,Reorder immediately
+Guwahati Mall Outlet,Badminton Racket,Sports,24.0,40,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Pet Shampoo Classic,Pet Supplies,58.0,74,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Slime Kit,Toys,26.0,42,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Kite Set,Toys,35.0,51,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Building Blocks Mini,Toys,49.0,65,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Bed Frame Mini,Furniture,21.0,37,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Pulses 1kg Classic,Groceries,20.0,36,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Denim Jacket,Clothing,58.0,74,16.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Hoodie,Clothing,56.0,72,16.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Salt 1kg Classic,Groceries,35.0,50,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Mirror Frame Plus,Home Decor,40.0,55,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Cycling Helmet Classic,Sports,55.0,70,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Knife Set Classic,Kitchen,69.0,84,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Electric Kettle Plus,Electronics,17.0,32,15.0,🟢 Low — Standard Reorder,Reorder immediately
+Kochi Ring Road Store,Mixer Grinder Mini,Kitchen,36.0,51,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Face Wash Plus,Beauty,47.0,62,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Curtain Set Plus,Home Decor,49.0,64,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Sketch Pen Set,Stationery,44.0,59,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Memory Card 64GB,Electronics,35.0,50,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Instant Noodles Pack Classic,Groceries,15.0,30,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Scented Candle Pack Plus,Home Decor,70.0,85,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Snack Combo Pack Classic,Groceries,54.0,69,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,School Bag Plus,Stationery,67.0,82,15.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Cricket Bat Mini,Sports,65.0,79,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Organic Honey 500g,Groceries,32.0,46,14.0,🟢 Low — Standard Reorder,Reorder immediately
+Chandigarh High Street Store,Wireless Keyboard,Electronics,33.0,47,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Sunscreen Lotion Plus,Beauty,22.0,36,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Pet Shampoo Plus,Pet Supplies,83.0,97,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Electric Kettle Plus,Electronics,18.0,32,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Silk Saree Classic,Clothing,17.0,31,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Football,Sports,27.0,41,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Mirror Frame Plus,Home Decor,41.0,55,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Instant Noodles Pack Classic,Groceries,16.0,30,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Cargo Pants,Clothing,26.0,40,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Decorative Vase Plus,Home Decor,29.0,43,14.0,🟢 Low — Standard Reorder,Reorder immediately
+Guwahati Mall Outlet,Wall Clock Plus,Home Decor,45.0,59,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Gym Gloves Classic,Sports,19.0,33,14.0,🟢 Low — Standard Reorder,Reorder immediately
+Vadodara MG Road Store,Salt 1kg,Groceries,66.0,80,14.0,🟢 Low — Standard Reorder,Reorder immediately
+Nashik Station Road Store,Winter Jacket Plus,Clothing,32.0,46,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Non-Stick Pan,Kitchen,18.0,32,14.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Table Lamp,Home Decor,47.0,60,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Building Blocks Classic,Toys,59.0,72,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Chopping Board,Kitchen,41.0,54,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Wall Clock,Home Decor,34.0,47,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Pressure Cooker Mini,Kitchen,53.0,66,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,TV Stand,Furniture,28.0,41,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Biscuit Pack Classic,Groceries,25.0,38,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Microwave Oven Plus,Electronics,28.0,41,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Hair Oil Mini,Beauty,61.0,74,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Bird Cage,Pet Supplies,53.0,66,13.0,🟢 Low — Standard Reorder,Reorder immediately
+Pune Central Store,Photo Frame Set,Home Decor,76.0,89,13.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Skipping Rope Classic,Sports,49.0,61,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Mirror Frame Classic,Home Decor,53.0,65,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Shampoo 500ml,Beauty,69.0,81,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Yoga Mat,Sports,26.0,38,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Study Table Classic,Furniture,19.0,31,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,LED Strip Lights,Electronics,41.0,53,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Laptop Table,Furniture,66.0,78,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Skipping Rope Plus,Sports,18.0,30,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Action Figure Mini,Toys,38.0,50,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Tiffin Box Mini,Kitchen,56.0,68,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Blender,Kitchen,39.0,51,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Photo Frame Set Mini,Home Decor,63.0,75,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Instant Noodles Pack Classic,Groceries,18.0,30,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Dog Food 3kg Mini,Pet Supplies,26.0,38,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Air Conditioner Plus,Electronics,60.0,72,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Folding Chair,Furniture,57.0,69,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Jaggery 500g,Groceries,59.0,71,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Ball Pen Set Classic,Stationery,40.0,52,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Fruit Juice 1L Plus,Groceries,54.0,66,12.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Air Conditioner Classic,Electronics,40.0,51,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Yoga Mat,Sports,27.0,38,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Rubik Cube,Toys,71.0,82,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,File Folder Pack Classic,Stationery,22.0,33,11.0,🟢 Low — Standard Reorder,Reorder immediately
+Chandigarh High Street Store,Coffee Table Mini,Furniture,77.0,88,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,TV Unit Mini,Furniture,40.0,51,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Mixer Grinder,Kitchen,50.0,61,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Calculator Classic,Stationery,53.0,64,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Extension Board,Electronics,64.0,75,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Lipstick Classic,Beauty,62.0,73,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Dining Table Mini,Furniture,19.0,30,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Bottled Water 1L Plus,Groceries,86.0,97,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Pet Leash,Pet Supplies,23.0,34,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Rain Jacket,Clothing,35.0,46,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Sketch Pen Set Plus,Stationery,64.0,75,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Wireless Keyboard,Electronics,36.0,47,11.0,🟢 Low — Standard Reorder,Reorder immediately
+Hyderabad Central Plaza,Doll House Mini,Toys,70.0,81,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Pet Leash Mini,Pet Supplies,32.0,43,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Football Classic,Sports,35.0,46,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Mixer Grinder Mini,Kitchen,40.0,51,11.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Electric Kettle Plus,Electronics,22.0,32,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Smart Watch Band,Electronics,50.0,60,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Tiffin Box Mini,Kitchen,58.0,68,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Sugar 1kg Classic,Groceries,73.0,83,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Geometry Box Classic,Stationery,74.0,84,10.0,🟢 Low — Standard Reorder,Reorder immediately
+Lucknow City Centre Store,Laptop Table,Furniture,68.0,78,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Silk Saree Plus,Clothing,47.0,57,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Salt 1kg Plus,Groceries,61.0,71,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Ball Pen Set Classic,Stationery,42.0,52,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Remote Car Classic,Toys,28.0,38,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Sofa Set Mini,Furniture,71.0,81,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Pet Bed Mini,Pet Supplies,22.0,32,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Shampoo 500ml,Beauty,71.0,81,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Scented Candle Pack Classic,Home Decor,87.0,97,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Dog Food 3kg Mini,Pet Supplies,28.0,38,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Toy Train Set,Toys,33.0,43,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Bedside Table,Furniture,59.0,69,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Bluetooth Adapter,Electronics,34.0,44,10.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Mixer Grinder Mini,Kitchen,42.0,51,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Pet Grooming Kit,Pet Supplies,89.0,98,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Skipping Rope Classic,Sports,52.0,61,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Basmati Rice 5kg Classic,Groceries,37.0,46,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Cricket Bat Classic,Sports,39.0,48,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Instant Noodles Pack Classic,Groceries,21.0,30,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Smart Watch Band,Electronics,51.0,60,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Chew Toy Classic,Pet Supplies,41.0,50,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Sunscreen Lotion Plus,Beauty,27.0,36,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Hair Oil,Beauty,79.0,88,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Steel Cookware Set Plus,Kitchen,51.0,60,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Face Serum Plus,Beauty,72.0,81,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Bookshelf Classic,Furniture,77.0,86,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Wireless Earbuds,Electronics,45.0,54,9.0,🟢 Low — Standard Reorder,Reorder immediately
+Pune Central Store,Rain Jacket,Clothing,37.0,46,9.0,🟢 Low — Standard Reorder,Reorder immediately
+Lucknow City Centre Store,Cargo Pants Classic,Clothing,84.0,93,9.0,🟢 Low — Standard Reorder,Reorder immediately
+Hyderabad Central Plaza,Hair Dryer,Beauty,66.0,75,9.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Chopping Board Plus,Kitchen,43.0,51,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Shampoo 500ml Mini,Beauty,77.0,85,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Mixer Grinder Mini,Kitchen,43.0,51,8.0,🟢 Low — Standard Reorder,Reorder immediately
+Guwahati Mall Outlet,Badminton Racket Mini,Sports,47.0,55,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Power Bank Classic,Electronics,30.0,38,8.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Talcum Powder Classic,Beauty,38.0,46,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Geometry Box Mini,Stationery,44.0,52,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Photo Frame Set Mini,Home Decor,67.0,75,8.0,🟢 Low — Standard Reorder,Reorder immediately
+Delhi Connaught Place Store,Fruit Juice 1L Plus,Groceries,58.0,66,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Slime Kit,Toys,34.0,42,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Water Purifier Classic,Electronics,39.0,47,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Console Table,Furniture,40.0,48,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,School Bag Plus,Stationery,74.0,82,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Biscuit Pack Classic,Groceries,30.0,38,8.0,🟢 Low — Standard Reorder,Reorder immediately
+Bhopal Central Plaza,Wall Shelf Set,Furniture,55.0,63,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Building Blocks Mini,Toys,57.0,65,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Skateboard Kids,Toys,47.0,55,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Summer Dress,Clothing,54.0,62,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,TV Stand,Furniture,33.0,41,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Mirror Frame Plus,Home Decor,47.0,55,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Perfume Classic,Beauty,85.0,93,8.0,🟢 Low — Standard Reorder,Reorder immediately
+Ludhiana Central Plaza,Storage Container Set Classic,Kitchen,23.0,31,8.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Rain Jacket,Clothing,38.0,46,8.0,🟢 Low — Standard Reorder,Reorder immediately
+Kochi Ring Road Store,Maxi Dress,Clothing,61.0,68,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Green Tea Pack,Groceries,46.0,53,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Table Lamp Mini,Home Decor,80.0,87,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Jaipur High Street Store,Mixer Grinder,Kitchen,54.0,61,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Sunflower Oil 1L,Groceries,48.0,55,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Ottoman Stool,Furniture,47.0,54,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Wall Clock Mini,Home Decor,60.0,67,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Webcam HD,Electronics,56.0,63,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Laptop Sleeve,Electronics,51.0,58,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Decorative Vase Classic,Home Decor,68.0,75,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Surat Ring Road Store,Dining Table Mini,Furniture,23.0,30,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Salt 1kg,Groceries,73.0,80,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Hyderabad Central Plaza,Toy Robot Classic,Toys,39.0,46,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Football,Sports,34.0,41,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Decorative Vase Plus,Home Decor,36.0,43,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Pune Central Store,Skipping Rope Plus,Sports,23.0,30,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,School Bag,Stationery,45.0,52,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Bhopal Central Plaza,Action Figure Classic,Toys,29.0,36,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Card Game Set Classic,Toys,23.0,30,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Fish Tank Filter Classic,Pet Supplies,60.0,67,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Running Shoes Plus,Sports,73.0,80,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,File Folder Pack Plus,Stationery,43.0,50,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,LED TV Classic,Electronics,88.0,95,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Guwahati Mall Outlet,Sugar 1kg Classic,Groceries,76.0,83,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Face Serum Plus,Beauty,74.0,81,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Ahmedabad Mall Outlet,Denim Jacket,Clothing,67.0,74,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Running Shoes Plus,Sports,73.0,80,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Face Wash Mini,Beauty,34.0,41,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Shampoo 500ml Mini,Beauty,78.0,85,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Yoga Mat Plus,Sports,40.0,47,7.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Polo T-Shirt,Clothing,68.0,75,7.0,🟢 Low — Standard Reorder,Reorder immediately
+Guwahati Mall Outlet,Hair Oil Classic,Beauty,73.0,79,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Bedside Table,Furniture,63.0,69,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Photo Frame Set Mini,Home Decor,69.0,75,6.0,🟢 Low — Standard Reorder,Reorder immediately
+Delhi Connaught Place Store,Organic Honey 500g,Groceries,40.0,46,6.0,🟢 Low — Standard Reorder,Reorder immediately
+Surat Ring Road Store,Green Tea Pack,Groceries,47.0,53,6.0,🟢 Low — Standard Reorder,Reorder immediately
+Chandigarh High Street Store,Slime Kit Mini,Toys,62.0,68,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Dumbbell Set Mini,Sports,86.0,92,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Fairy Lights Classic,Home Decor,65.0,71,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Card Game Set Classic,Toys,24.0,30,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Toy Kitchen Set,Toys,36.0,42,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Moisturizer Cream Classic,Beauty,80.0,86,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Pulses 1kg Plus,Groceries,69.0,75,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Winter Jacket Plus,Clothing,40.0,46,6.0,🟢 Low — Standard Reorder,Reorder immediately
+Kochi Ring Road Store,Bean Bag,Furniture,60.0,66,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,LED Strip Lights,Electronics,47.0,53,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Smartphone Classic,Electronics,75.0,81,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Pet Shampoo,Pet Supplies,55.0,61,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Lipstick,Beauty,88.0,94,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Face Wash Plus,Beauty,56.0,62,6.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Salt 1kg Classic,Groceries,44.0,50,6.0,🟢 Low — Standard Reorder,Reorder immediately
+Chandigarh High Street Store,Skateboard Kids,Toys,50.0,55,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Cricket Bat Classic,Sports,43.0,48,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Dog Food 3kg Mini,Pet Supplies,33.0,38,5.0,🟢 Low — Standard Reorder,Reorder immediately
+Patna MG Road Store,Blender Plus,Kitchen,93.0,98,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Wireless Keyboard,Electronics,42.0,47,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Lipstick Plus,Beauty,27.0,32,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Ball Pen Set Classic,Stationery,47.0,52,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Tiffin Box Classic,Kitchen,93.0,98,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Storage Container Set Classic,Kitchen,26.0,31,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Bird Cage Classic,Pet Supplies,25.0,30,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Table Lamp Classic,Home Decor,37.0,42,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Rain Jacket,Clothing,41.0,46,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,File Folder Pack,Stationery,35.0,40,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Calculator Mini,Stationery,33.0,38,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Yoga Mat Plus,Sports,42.0,47,5.0,🟢 Low — Standard Reorder,Reorder immediately
+Delhi Connaught Place Store,Extension Board,Electronics,70.0,75,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Cargo Pants,Clothing,35.0,40,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Power Bank Classic,Electronics,33.0,38,5.0,🟢 Low — Standard Reorder,Reorder immediately
+Nashik Station Road Store,Printer Paper Ream Plus,Stationery,68.0,73,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Dog Food 3kg Mini,Pet Supplies,33.0,38,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Moisturizer Cream,Beauty,28.0,33,5.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Running Shoes,Sports,42.0,47,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Pasta 500g,Groceries,54.0,59,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Woolen Sweater Plus,Clothing,84.0,89,5.0,🟢 Low — Standard Reorder,Reorder immediately
+Nagpur Station Road Store,Card Game Set Mini,Toys,55.0,60,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Bar Stool,Furniture,53.0,58,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Toy Drone,Toys,55.0,60,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Kurta Set,Clothing,37.0,42,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Yoga Mat,Sports,33.0,38,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Lipstick Mini,Beauty,94.0,99,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Silk Saree Classic,Clothing,26.0,31,5.0,🟢 Low — Standard Reorder,Reorder immediately
+Nagpur Station Road Store,Doll House Mini,Toys,76.0,81,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Building Blocks Mini,Toys,81.0,86,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Ball Pen Set Classic,Stationery,47.0,52,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Shampoo 500ml Classic,Beauty,56.0,61,5.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Basmati Rice 5kg Classic,Groceries,42.0,46,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Football Classic,Sports,42.0,46,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Woolen Sweater,Clothing,54.0,58,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Wall Art Canvas Plus,Home Decor,58.0,62,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Pet Leash,Pet Supplies,30.0,34,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Geometry Box Mini,Stationery,48.0,52,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Sunscreen Lotion Plus,Beauty,32.0,36,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Rug,Home Decor,68.0,72,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Organic Honey 500g,Groceries,42.0,46,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Wardrobe Mini,Furniture,42.0,46,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Coffee Powder 250g,Groceries,36.0,40,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Memory Card 64GB,Electronics,46.0,50,4.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Dog Food 3kg Mini,Pet Supplies,34.0,38,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Pet Leash,Pet Supplies,30.0,34,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Cycling Helmet Classic,Sports,66.0,70,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Action Figure Classic,Toys,32.0,36,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Study Table,Furniture,65.0,69,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Hoodie Classic,Clothing,77.0,81,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Chew Toy Plus,Pet Supplies,72.0,76,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Football Plus,Sports,92.0,96,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Study Table Classic,Furniture,27.0,31,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Rug,Home Decor,68.0,72,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Pet Leash,Pet Supplies,30.0,34,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Decorative Vase Mini,Home Decor,92.0,96,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Dining Table Classic,Furniture,58.0,62,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Pet Leash,Pet Supplies,30.0,34,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Toy Drone Mini,Toys,30.0,34,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Instant Noodles Pack,Groceries,75.0,79,4.0,🟢 Low — Standard Reorder,Reorder immediately
+Pune Central Store,Chopping Board Plus,Kitchen,47.0,51,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Coffee Table Mini,Furniture,84.0,88,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Sofa Set Mini,Furniture,77.0,81,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Jaipur High Street Store,Decorative Vase Classic,Home Decor,71.0,75,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Cargo Pants Plus,Clothing,79.0,83,4.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Mirror Frame Classic,Home Decor,61.0,65,4.0,🟢 Low — Standard Reorder,Reorder immediately
+Surat Ring Road Store,Memory Card 64GB,Electronics,47.0,50,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Organic Honey 500g,Groceries,43.0,46,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Card Game Set Mini,Toys,57.0,60,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Ketchup 500ml,Groceries,70.0,73,3.0,🟢 Low — Standard Reorder,Reorder immediately
+Mumbai Andheri Store,Formal Trousers,Clothing,70.0,73,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Yoga Mat,Sports,35.0,38,3.0,🟢 Low — Standard Reorder,Reorder immediately
+Raipur High Street Store,Bar Stool,Furniture,55.0,58,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Rain Jacket Plus,Clothing,81.0,84,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kolkata MG Road Store,Pressure Cooker,Kitchen,81.0,84,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Sports Jersey,Clothing,74.0,77,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Rain Jacket,Clothing,43.0,46,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,File Folder Pack,Stationery,37.0,40,3.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Pressure Cooker Mini,Kitchen,63.0,66,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ahmedabad Mall Outlet,Decorative Vase Plus,Home Decor,40.0,43,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Non-Stick Pan Plus,Kitchen,90.0,93,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Chew Toy Classic,Pet Supplies,47.0,50,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Shampoo 500ml,Beauty,78.0,81,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Leather Belt Plus,Clothing,46.0,49,3.0,🟢 Low — Standard Reorder,Reorder immediately
+Bhopal Central Plaza,Water Gun,Toys,78.0,81,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Kurta Set Classic,Clothing,57.0,60,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Kids Study Desk,Furniture,52.0,55,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Bird Cage,Pet Supplies,63.0,66,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Fitness Band Mini,Sports,35.0,38,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Hoodie,Clothing,69.0,72,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Biscuit Pack Classic,Groceries,35.0,38,3.0,🟢 Low — Standard Reorder,Reorder immediately
+Hyderabad Central Plaza,Knife Set Plus,Kitchen,88.0,91,3.0,🟢 Low — Standard Reorder,Reorder immediately
+Coimbatore City Centre Store,Pet Leash Mini,Pet Supplies,40.0,43,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Indore Downtown Store,Knife Set Mini,Kitchen,32.0,35,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Cricket Bat Plus,Sports,78.0,81,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Water Gun,Toys,78.0,81,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Highlighter Set,Stationery,33.0,36,3.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Pune Central Store,Screen Protector,Electronics,46.0,48,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Skipping Rope Classic,Sports,59.0,61,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Sketch Pen Set Classic,Stationery,42.0,44,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Bicycle Kids,Toys,67.0,69,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bhopal Central Plaza,Slime Kit,Toys,40.0,42,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Tiffin Box Classic,Kitchen,96.0,98,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Cricket Bat,Sports,29.0,31,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Almonds 500g,Groceries,47.0,49,2.0,🟢 Low — Standard Reorder,Reorder immediately
+Bengaluru Koramangala Store,Gym Gloves,Sports,82.0,84,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Kochi Ring Road Store,Notebook Pack Mini,Stationery,38.0,40,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Raipur High Street Store,Bed Frame Mini,Furniture,35.0,37,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,LED Strip Lights,Electronics,51.0,53,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Electric Kettle Plus,Electronics,30.0,32,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Smart Watch Band,Electronics,58.0,60,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Pet Leash Classic,Pet Supplies,74.0,76,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Kurta Set,Clothing,40.0,42,2.0,🟢 Low — Standard Reorder,Reorder immediately
+Jaipur High Street Store,Pulses 1kg Classic,Groceries,34.0,36,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Football,Sports,39.0,41,2.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Patna MG Road Store,Pet Leash Plus,Pet Supplies,37.0,38,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Lucknow City Centre Store,Football,Sports,40.0,41,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Bengaluru Koramangala Store,Table Lamp Mini,Home Decor,86.0,87,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Denim Jacket,Clothing,73.0,74,1.0,🟢 Low — Standard Reorder,Reorder immediately
+Ranchi Mall Outlet,Cat Litter Pack Plus,Pet Supplies,39.0,40,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Delhi Connaught Place Store,Sugar 1kg,Groceries,45.0,46,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Hyderabad Central Plaza,Kite Set,Toys,50.0,51,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Shampoo 500ml Classic,Beauty,60.0,61,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Dog Food 3kg Mini,Pet Supplies,37.0,38,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ranchi Mall Outlet,Sunflower Oil 1L,Groceries,54.0,55,1.0,🟢 Low — Standard Reorder,Reorder immediately
+Chennai T Nagar Store,Kurta Set,Clothing,41.0,42,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,Cargo Pants,Clothing,39.0,40,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chennai T Nagar Store,Power Bank Classic,Electronics,37.0,38,1.0,🟢 Low — Standard Reorder,Reorder immediately
+Ranchi Mall Outlet,File Folder Pack Plus,Stationery,49.0,50,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Mumbai Andheri Store,Pasta 500g,Groceries,58.0,59,1.0,🟢 Low — Standard Reorder,Reorder immediately
+Hyderabad Central Plaza,Pet Shampoo Plus,Pet Supplies,96.0,97,1.0,🟢 Low — Standard Reorder,Reorder immediately
+Delhi Connaught Place Store,Bar Stool,Furniture,57.0,58,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Printer Paper Ream Classic,Stationery,41.0,42,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nagpur Station Road Store,Bookshelf 5-Tier,Furniture,55.0,56,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,File Folder Pack,Stationery,39.0,40,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Guwahati Mall Outlet,School Bag Plus,Stationery,81.0,82,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Visakhapatnam Downtown Store,Memory Card 64GB,Electronics,49.0,50,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Coimbatore City Centre Store,Doll House Mini,Toys,80.0,81,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Bird Cage Plus,Pet Supplies,38.0,39,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Chandigarh High Street Store,Wall Art Canvas Classic,Home Decor,48.0,49,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Fish Tank Filter Plus,Pet Supplies,87.0,88,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Ludhiana Central Plaza,Shoe Rack,Furniture,78.0,79,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Vadodara MG Road Store,Dumbbell Set Classic,Sports,82.0,83,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Surat Ring Road Store,Puzzle 500pc,Toys,69.0,70,1.0,🟠 High — Expedite Supplier Follow-up,Reorder immediately + Expedite supplier follow-up
+Nashik Station Road Store,Cotton T-Shirt,Clothing,77.0,78,1.0,🟢 Low — Standard Reorder,Reorder immediately
+Hyderabad Central Plaza,File Folder Pack Classic,Stationery,32.0,33,1.0,🟢 Low — Standard Reorder,Reorder immediately

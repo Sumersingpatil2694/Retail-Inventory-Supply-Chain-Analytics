@@ -1,0 +1,26 @@
+store_id,store_name,city,total_revenue,total_units_sold,stockout_rate,avg_inventory,revenue_rank
+S016,Guwahati Mall Outlet,Guwahati,131032529.48,38177.5,0.6,134.22,1
+S011,Surat Ring Road Store,Surat,120678794.2,37117.5,0.94,128.64,2
+S006,Hyderabad Central Plaza,Hyderabad,118701678.45,34763.0,0.84,129.25,3
+S001,Pune Central Store,Pune,114934805.9,30346.0,0.44,127.97,4
+S024,Ranchi Mall Outlet,Ranchi,105867513.72,32139.5,0.65,130.44,5
+S025,Raipur High Street Store,Raipur,87702100.28,23990.5,1.07,131.82,6
+S005,Delhi Connaught Place Store,Delhi,87130764.25,34003.0,1.04,132.22,7
+S021,Visakhapatnam Downtown Store,Visakhapatnam,86792216.82,28921.0,0.6,133.84,8
+S003,Bengaluru Koramangala Store,Bengaluru,86752834.16,34443.5,0.48,132.35,9
+S017,Chandigarh High Street Store,Chandigarh,77673833.18,30812.5,0.72,137.3,10
+S014,Bhopal Central Plaza,Bhopal,77581697.22,26681.5,1.26,127.65,11
+S002,Mumbai Andheri Store,Mumbai,76714814.39,31301.0,0.65,130.73,12
+S009,Jaipur High Street Store,Jaipur,71845720.07,26203.5,0.5,138.9,13
+S010,Lucknow City Centre Store,Lucknow,70183192.86,21856.5,0.72,135.37,14
+S022,Ludhiana Central Plaza,Ludhiana,64908416.65,18434.0,1.11,138.56,15
+S023,Vadodara MG Road Store,Vadodara,57238444.32,19212.0,0.9,142.59,16
+S015,Patna MG Road Store,Patna,53203776.97,28250.0,0.45,131.19,17
+S007,Kolkata MG Road Store,Kolkata,52988322.29,19246.5,0.72,123.18,18
+S012,Nagpur Station Road Store,Nagpur,52439784.34,22323.0,0.76,132.65,19
+S019,Kochi Ring Road Store,Kochi,51174159.77,24136.0,0.88,133.73,20
+S020,Nashik Station Road Store,Nashik,46115958.33,25431.0,0.94,138.18,21
+S013,Indore Downtown Store,Indore,43146007.39,19641.0,0.86,129.66,22
+S008,Ahmedabad Mall Outlet,Ahmedabad,38541995.38,19285.0,0.79,130.65,23
+S004,Chennai T Nagar Store,Chennai,37379880.21,19420.5,0.52,134.16,24
+S018,Coimbatore City Centre Store,Coimbatore,36990577.31,12795.5,0.85,140.45,25

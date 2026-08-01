@@ -1,0 +1,21 @@
+supplier_name,avg_delay,on_time_pct,total_revenue,fill_rate
+Prime Vendors Ltd,0.48,91.17,101591230.39,1.0
+Sunrise Distributors,0.64,88.65,73653676.71,1.0
+Golden Gate Imports,0.7,87.25,174682242.36,1.0
+Bluewave Supplies,0.78,88.16,131117570.01,1.0
+Metro Wholesale Co.,0.95,88.76,88218829.27,0.91
+Summit Supply Chain,1.0,89.41,51962910.79,0.91
+Pinnacle Wholesale,1.02,88.03,32830360.14,0.88
+Silverline Merchandise,1.07,87.54,119664049.49,1.0
+Horizon Goods Pvt Ltd,1.07,86.07,68115402.33,0.86
+Orbit Sourcing Ltd,1.09,88.58,91524641.21,1.0
+Apex Trading Corp,1.31,87.44,157849330.15,0.95
+Vertex Global Trade,1.35,85.73,89692141.27,0.93
+Everest Supply Co,1.39,86.8,39321432.04,0.98
+Nationwide Traders,1.52,88.67,126201450.06,0.98
+Crescent Traders,2.32,88.18,65752094.54,0.87
+Falcon Distribution,2.55,90.34,109082578.86,1.0
+Zenith Commerce Ltd,2.79,88.64,83910139.52,1.0
+Cascade Vendors,3.66,86.15,131158933.93,0.9
+Meridian Supply Group,3.7,85.48,46459584.63,0.78
+Oceanic Import-Export,4.06,87.11,64931220.24,0.93
