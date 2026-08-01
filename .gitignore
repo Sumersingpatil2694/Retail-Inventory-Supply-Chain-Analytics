@@ -1,0 +1,21 @@
+# Secrets — never commit real credentials
+.env
+*.env
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
