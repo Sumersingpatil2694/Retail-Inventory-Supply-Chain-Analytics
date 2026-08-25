@@ -166,17 +166,17 @@ Deliverable: `Tableau/Retail Inventory & Supply Chain Analytics.twb`
 ### 🟦 Page 1 — Executive Overview
 KPI cards (Total Revenue, Total Units Sold, Stockout Rate, Fill Rate) · monthly revenue trend · Revenue by Category · Stockout Rate by Category · Stockout Risk by City map · Quarterly Growth (QoQ / YoY) · ABC Classification.
 
-![Page 1 — Executive Overview](Tableau%20Screenshots/Retail%20Inventory%20%26%20Supply%20Chain%20Analytics.png)
+![Page 1 — Executive Overview](https://github.com/Sumersingpatil2694/Retail-Inventory-Supply-Chain-Analytics/blob/main/Tableau%20Screenshots/1.%20Retail%20Inventory%20%26%20Supply%20Chain%20Analytics.png)
 
 ### 🟩 Page 2 — Inventory & Stock Management
 KPI cards (Total Inventory Value, Total Stock on Hand, Avg Inventory Turnover, Out-of-Stock Items) · Inventory Turnover by Category · Monthly Units Sold Trend · store-product level Reorder Recommendations · Slow-Moving Products ranking.
 
-![Page 2 — Inventory & Stock Management](Tableau%20Screenshots/Inventory.png)
+![Page 2 — Inventory & Stock Management](https://github.com/Sumersingpatil2694/Retail-Inventory-Supply-Chain-Analytics/blob/main/Tableau%20Screenshots/2.%20Inventory.png)
 
 ### 🟥 Page 3 — Supplier & Root-Cause Analysis
 KPI cards (Avg Delivery Delay, Best Supplier, On-Time Delivery %, Fill Rate %) · On-Time Delivery % by Supplier · Top 10 Delivery Delay by Supplier · Top 7 Supplier Reliability Score · Supplier Risk Matrix (lead time vs on-time delivery). **This page makes the delay → stockout root-cause story visible and the supplier renegotiation case bulletproof.**
 
-![Page 3 — Supplier & Root-Cause Analysis](Tableau%20Screenshots/Supplier%20%26%20Root-Cause%20Analysis.png)
+![Page 3 — Supplier & Root-Cause Analysis](https://github.com/Sumersingpatil2694/Retail-Inventory-Supply-Chain-Analytics/blob/main/Tableau%20Screenshots/3.%20Supplier%20%26%20Root-Cause%20Analysis.png)
 
 ### 🧮 Key Tableau Calculated Fields
 ```
