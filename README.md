@@ -376,12 +376,3 @@ Turning messy business data into decisions using SQL, Python, and Tableau.
 Open to Data Analyst roles — feel free to reach out for feedback, opportunities, or collaboration.
 
 ---
-
-## License
-
-Created for educational and portfolio purposes.
-© 2026 Sumersing Patil. All insights derived from a simulated retail dataset.
-
----
-
-If you found this project useful, consider starring the repository.
