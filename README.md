@@ -10,8 +10,6 @@ An analytics project built on 50,000+ retail transactions to flag stockouts, cut
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627)
 ![Domain](https://img.shields.io/badge/Domain-Retail%20%7C%20Supply%20Chain-orange)
 
-**Author:** Sumersing Patil  •  **Role:** Data Analyst  
-
 ---
 
 ## Executive Summary
