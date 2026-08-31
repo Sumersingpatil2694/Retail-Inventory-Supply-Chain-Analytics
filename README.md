@@ -351,20 +351,6 @@ Open `Tableau/Retail Inventory & Supply Chain Analytics.twb` in Tableau Desktop 
 
 ---
 
-## requirements.txt
-
-```
-pandas>=2.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-scipy>=1.10.0
-sqlalchemy>=2.0.0
-pymysql>=1.1.0
-jupyter>=1.0.0
-```
-
----
-
 ## About the Author
 
 **Sumersing Patil** — Data Analyst
