@@ -25,10 +25,10 @@ DROP VIEW IF EXISTS vw_stockout_overstock;
 DROP VIEW IF EXISTS vw_dead_stock;
 DROP VIEW IF EXISTS vw_inventory_turnover;
 
--- ---------------------------------------------------------------------------
+-- --------------------------------------------------------------------------
 -- 1. INVENTORY TURNOVER
 --    turnover = total units sold / average inventory on hand
--- ---------------------------------------------------------------------------
+-- --------------------------------------------------------------------------
 CREATE VIEW vw_inventory_turnover AS
 SELECT
     p.product_id,
