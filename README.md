@@ -9,7 +9,7 @@ An analytics project built on 50,000+ retail transactions to flag stockouts, cut
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627)
 ![Domain](https://img.shields.io/badge/Domain-Retail%20%7C%20Supply%20Chain-orange)
-
+ 
 ---
 
 ## Executive Summary
