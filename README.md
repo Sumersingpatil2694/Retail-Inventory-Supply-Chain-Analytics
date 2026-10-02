@@ -1,4 +1,4 @@
-# Retail Inventory Optimization & Supply Chain Performance Analytics
+# Retail Inventory Optimization & Supply Chain Performance Analytics  
 
 ### End-to-End Data Analytics Project — Python · SQL · Tableau · Excel
 
