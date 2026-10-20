@@ -203,7 +203,7 @@ Retail Inventory & Supply Chain Performance Analytics/
 │
 ├── data/                                    # Raw + processed CSVs
 │   ├── fact_sales_inventory_RAW.csv             (50,301 rows — raw)
-│   ├── fact_sales_inventory_CLEANED.csv         (48,991 rows — cleaned)
+│   ├── fact_sales_inventory_CLEANED.csv         (49,007 rows — cleaned)
 │   ├── fact_sales_inventory_analytics.csv       (analytics-ready)
 │   ├── products.csv                             (410 products, 11 categories)
 │   ├── stores.csv                               (25 stores)
