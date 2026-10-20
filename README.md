@@ -62,7 +62,7 @@ A multi-store retail chain operating across 25 Indian cities, 8 regional warehou
 | Component | Count | Description |
 |---|---|---|
 | Fact rows (raw) | 50,301 | Daily store × product sales & inventory records |
-| Fact rows (cleaned) | 48,991 | After dedup, outlier handling, imputation |
+| Fact rows (cleaned) | 49,007 | After dedup, outlier handling, imputation |
 | Products | 410 | Across 11 categories (Electronics, Furniture, Sports, Kitchen, Home Decor, Pet Supplies, Clothing, Beauty, Toys, Stationery, Groceries) |
 | Stores | 25 | Metro, Tier-1, Tier-2, Flagship, Mall Outlet across India |
 | Warehouses | 8 | Regional distribution centers |
