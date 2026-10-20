@@ -1,0 +1,6 @@
+store_id,store_name,city,warehouse_id,store_type
+S001,Pune Central Store,Pune,W01,Tier-1
+S002,Mumbai Andheri Store,Mumbai,W01,Metro
+S003,Bengaluru Koramangala Store,Bengaluru,W02,Metro
+S004,Chennai T Nagar Store,Chennai,W02,Tier-1
+S005,Delhi Connaught Place Store,Delhi,W03,Metro
